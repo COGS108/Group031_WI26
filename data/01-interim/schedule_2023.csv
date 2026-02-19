@@ -1,0 +1,1397 @@
+date,home_team,away_team,home_abbr,away_abbr,arena,home_score,away_score
+2024-01-01,New York Knicks,Minnesota Timberwolves,NYK,MIN,Madison Square Garden,112,106
+2024-01-01,Toronto Raptors,Cleveland Cavaliers,TOR,CLE,Scotiabank Arena,124,121
+2024-01-01,Houston Rockets,Detroit Pistons,HOU,DET,Toyota Center,136,113
+2024-01-01,Milwaukee Bucks,Indiana Pacers,MIL,IND,Fiserv Forum,113,122
+2024-01-01,Denver Nuggets,Charlotte Hornets,DEN,CHA,Ball Arena,111,93
+2024-01-01,Phoenix Suns,Portland Trail Blazers,PHX,POR,Footprint Center,109,88
+2024-01-01,Utah Jazz,Dallas Mavericks,UTA,DAL,Delta Center,127,90
+2024-01-01,LA Clippers,Miami Heat,LAC,MIA,Crypto.com Arena,121,104
+2024-01-02,Philadelphia 76ers,Chicago Bulls,PHI,CHI,Wells Fargo Center,110,97
+2024-01-02,Memphis Grizzlies,San Antonio Spurs,MEM,SAS,FedExForum,106,98
+2024-01-02,New Orleans Pelicans,Brooklyn Nets,NOP,BKN,Smoothie King Center,112,85
+2024-01-02,Oklahoma City Thunder,Boston Celtics,OKC,BOS,Paycom Center,127,123
+2024-01-02,Golden State Warriors,Orlando Magic,GSW,ORL,Chase Center,121,115
+2024-01-02,Sacramento Kings,Charlotte Hornets,SAC,CHA,Golden 1 Center,104,111
+2024-01-03,Cleveland Cavaliers,Washington Wizards,CLE,WAS,Rocket Mortgage FieldHouse,140,101
+2024-01-03,Indiana Pacers,Milwaukee Bucks,IND,MIL,Gainbridge Fieldhouse,142,130
+2024-01-03,Atlanta Hawks,Oklahoma City Thunder,ATL,OKC,State Farm Arena,141,138
+2024-01-03,Houston Rockets,Brooklyn Nets,HOU,BKN,Toyota Center,112,101
+2024-01-03,Memphis Grizzlies,Toronto Raptors,MEM,TOR,FedExForum,111,116
+2024-01-03,Minnesota Timberwolves,New Orleans Pelicans,MIN,NOP,Target Center,106,117
+2024-01-03,New York Knicks,Chicago Bulls,NYK,CHI,Madison Square Garden,116,100
+2024-01-03,Dallas Mavericks,Portland Trail Blazers,DAL,POR,American Airlines Center,126,97
+2024-01-03,Phoenix Suns,LA Clippers,PHX,LAC,Footprint Center,122,131
+2024-01-03,Utah Jazz,Detroit Pistons,UTA,DET,Delta Center,154,148
+2024-01-03,Los Angeles Lakers,Miami Heat,LAL,MIA,Crypto.com Arena,96,110
+2024-01-03,Sacramento Kings,Orlando Magic,SAC,ORL,Golden 1 Center,138,135
+2024-01-04,San Antonio Spurs,Milwaukee Bucks,SAS,MIL,Frost Bank Center,121,125
+2024-01-04,Golden State Warriors,Denver Nuggets,GSW,DEN,Chase Center,127,130
+2024-01-05,Boston Celtics,Utah Jazz,BOS,UTA,TD Garden,126,97
+2024-01-05,Indiana Pacers,Atlanta Hawks,IND,ATL,Gainbridge Fieldhouse,150,116
+2024-01-05,Brooklyn Nets,Oklahoma City Thunder,BKN,OKC,Barclays Center,124,115
+2024-01-05,Cleveland Cavaliers,Washington Wizards,CLE,WAS,Rocket Mortgage FieldHouse,114,90
+2024-01-05,Philadelphia 76ers,New York Knicks,PHI,NYK,Wells Fargo Center,92,128
+2024-01-05,Chicago Bulls,Charlotte Hornets,CHI,CHA,United Center,104,91
+2024-01-05,Houston Rockets,Minnesota Timberwolves,HOU,MIN,Toyota Center,95,122
+2024-01-05,New Orleans Pelicans,LA Clippers,NOP,LAC,Smoothie King Center,95,111
+2024-01-05,Dallas Mavericks,Portland Trail Blazers,DAL,POR,American Airlines Center,139,103
+2024-01-05,Denver Nuggets,Orlando Magic,DEN,ORL,Ball Arena,120,122
+2024-01-05,Phoenix Suns,Miami Heat,PHX,MIA,Footprint Center,113,97
+2024-01-05,Golden State Warriors,Detroit Pistons,GSW,DET,Chase Center,113,109
+2024-01-05,Los Angeles Lakers,Memphis Grizzlies,LAL,MEM,Crypto.com Arena,113,127
+2024-01-05,Sacramento Kings,Toronto Raptors,SAC,TOR,Golden 1 Center,135,130
+2024-01-06,Indiana Pacers,Boston Celtics,IND,BOS,Gainbridge Fieldhouse,101,118
+2024-01-06,Washington Wizards,New York Knicks,WAS,NYK,Capital One Arena,105,121
+2024-01-06,Philadelphia 76ers,Utah Jazz,PHI,UTA,Wells Fargo Center,109,120
+2024-01-06,Houston Rockets,Milwaukee Bucks,HOU,MIL,Toyota Center,112,108
+2024-01-07,Cleveland Cavaliers,San Antonio Spurs,CLE,SAS,Rocket Mortgage FieldHouse,117,115
+2024-01-07,Brooklyn Nets,Portland Trail Blazers,BKN,POR,Barclays Center,127,134
+2024-01-07,Orlando Magic,Atlanta Hawks,ORL,ATL,Kia Center,117,110
+2024-01-07,Sacramento Kings,New Orleans Pelicans,SAC,NOP,Golden 1 Center,100,133
+2024-01-07,Dallas Mavericks,Minnesota Timberwolves,DAL,MIN,American Airlines Center,115,108
+2024-01-07,Denver Nuggets,Detroit Pistons,DEN,DET,Ball Arena,131,114
+2024-01-07,Phoenix Suns,Memphis Grizzlies,PHX,MEM,Footprint Center,115,121
+2024-01-07,Golden State Warriors,Toronto Raptors,GSW,TOR,Chase Center,118,133
+2024-01-07,Los Angeles Lakers,LA Clippers,LAL,LAC,Crypto.com Arena,106,103
+2024-01-08,Charlotte Hornets,Chicago Bulls,CHA,CHI,Spectrum Center,112,119
+2024-01-08,Indiana Pacers,Boston Celtics,IND,BOS,Gainbridge Fieldhouse,133,131
+2024-01-08,Washington Wizards,Oklahoma City Thunder,WAS,OKC,Capital One Arena,128,136
+2024-01-08,Miami Heat,Houston Rockets,MIA,HOU,Kaseya Center,120,113
+2024-01-08,Milwaukee Bucks,Utah Jazz,MIL,UTA,Fiserv Forum,116,132
+2024-01-08,LA Clippers,Phoenix Suns,LAC,PHX,Crypto.com Arena,138,111
+2024-01-09,Detroit Pistons,Sacramento Kings,DET,SAC,Little Caesars Arena,110,131
+2024-01-09,Orlando Magic,Minnesota Timberwolves,ORL,MIN,Kia Center,92,113
+2024-01-09,New York Knicks,Portland Trail Blazers,NYK,POR,Madison Square Garden,112,84
+2024-01-09,Dallas Mavericks,Memphis Grizzlies,DAL,MEM,American Airlines Center,103,120
+2024-01-09,Los Angeles Lakers,Toronto Raptors,LAL,TOR,Crypto.com Arena,132,131
+2024-01-10,Boston Celtics,Minnesota Timberwolves,BOS,MIN,TD Garden,127,120
+2024-01-10,Charlotte Hornets,Sacramento Kings,CHA,SAC,Spectrum Center,98,123
+2024-01-10,Detroit Pistons,San Antonio Spurs,DET,SAS,Little Caesars Arena,108,130
+2024-01-10,Indiana Pacers,Washington Wizards,IND,WAS,Gainbridge Fieldhouse,112,104
+2024-01-10,Atlanta Hawks,Philadelphia 76ers,ATL,PHI,State Farm Arena,139,132
+2024-01-10,Miami Heat,Oklahoma City Thunder,MIA,OKC,Kaseya Center,120,128
+2024-01-10,Chicago Bulls,Houston Rockets,CHI,HOU,United Center,124,119
+2024-01-10,Golden State Warriors,New Orleans Pelicans,GSW,NOP,Chase Center,105,141
+2024-01-10,Utah Jazz,Denver Nuggets,UTA,DEN,Delta Center,124,111
+2024-01-10,LA Clippers,Toronto Raptors,LAC,TOR,Crypto.com Arena,126,120
+2024-01-11,Cleveland Cavaliers,Brooklyn Nets,CLE,BKN,Accor Arena,111,102
+2024-01-11,Milwaukee Bucks,Boston Celtics,MIL,BOS,Fiserv Forum,135,102
+2024-01-11,Oklahoma City Thunder,Portland Trail Blazers,OKC,POR,Paycom Center,139,77
+2024-01-11,Dallas Mavericks,New York Knicks,DAL,NYK,American Airlines Center,128,124
+2024-01-11,Los Angeles Lakers,Phoenix Suns,LAL,PHX,Crypto.com Arena,109,127
+2024-01-12,Philadelphia 76ers,Sacramento Kings,PHI,SAC,Wells Fargo Center,112,93
+2024-01-12,Atlanta Hawks,Indiana Pacers,ATL,IND,State Farm Arena,108,126
+2024-01-12,Detroit Pistons,Houston Rockets,DET,HOU,Little Caesars Arena,110,112
+2024-01-12,Miami Heat,Orlando Magic,MIA,ORL,Kaseya Center,99,96
+2024-01-12,Chicago Bulls,Golden State Warriors,CHI,GSW,United Center,131,140
+2024-01-12,Memphis Grizzlies,LA Clippers,MEM,LAC,FedExForum,119,128
+2024-01-12,Minnesota Timberwolves,Portland Trail Blazers,MIN,POR,Target Center,116,93
+2024-01-12,San Antonio Spurs,Charlotte Hornets,SAS,CHA,Frost Bank Center,135,99
+2024-01-12,Utah Jazz,Toronto Raptors,UTA,TOR,Delta Center,145,113
+2024-01-12,Denver Nuggets,New Orleans Pelicans,DEN,NOP,Ball Arena,125,113
+2024-01-13,Boston Celtics,Houston Rockets,BOS,HOU,TD Garden,145,113
+2024-01-13,Atlanta Hawks,Washington Wizards,ATL,WAS,State Farm Arena,99,127
+2024-01-13,Memphis Grizzlies,New York Knicks,MEM,NYK,FedExForum,94,106
+2024-01-13,Milwaukee Bucks,Golden State Warriors,MIL,GSW,Fiserv Forum,129,118
+2024-01-13,Oklahoma City Thunder,Orlando Magic,OKC,ORL,Paycom Center,112,100
+2024-01-13,Dallas Mavericks,New Orleans Pelicans,DAL,NOP,American Airlines Center,108,118
+2024-01-13,San Antonio Spurs,Chicago Bulls,SAS,CHI,Frost Bank Center,116,122
+2024-01-13,Utah Jazz,Los Angeles Lakers,UTA,LAL,Delta Center,132,125
+2024-01-14,Denver Nuggets,Indiana Pacers,DEN,IND,Ball Arena,117,109
+2024-01-14,Miami Heat,Charlotte Hornets,MIA,CHA,Kaseya Center,104,87
+2024-01-14,Milwaukee Bucks,Sacramento Kings,MIL,SAC,Fiserv Forum,143,142
+2024-01-14,Minnesota Timberwolves,LA Clippers,MIN,LAC,Target Center,109,105
+2024-01-14,Portland Trail Blazers,Phoenix Suns,POR,PHX,Moda Center,116,127
+2024-01-15,Philadelphia 76ers,Houston Rockets,PHI,HOU,Wells Fargo Center,124,115
+2024-01-15,Dallas Mavericks,New Orleans Pelicans,DAL,NOP,American Airlines Center,125,120
+2024-01-15,New York Knicks,Orlando Magic,NYK,ORL,Madison Square Garden,94,98
+2024-01-15,Washington Wizards,Detroit Pistons,WAS,DET,Capital One Arena,117,129
+2024-01-15,Atlanta Hawks,San Antonio Spurs,ATL,SAS,State Farm Arena,109,99
+2024-01-15,Memphis Grizzlies,Golden State Warriors,MEM,GSW,FedExForum,116,107
+2024-01-15,Cleveland Cavaliers,Chicago Bulls,CLE,CHI,Rocket Mortgage FieldHouse,109,91
+2024-01-15,Brooklyn Nets,Miami Heat,BKN,MIA,Barclays Center,95,96
+2024-01-15,Toronto Raptors,Boston Celtics,TOR,BOS,Scotiabank Arena,96,105
+2024-01-15,Utah Jazz,Indiana Pacers,UTA,IND,Delta Center,132,105
+2024-01-15,Los Angeles Lakers,Oklahoma City Thunder,LAL,OKC,Crypto.com Arena,112,105
+2024-01-16,Philadelphia 76ers,Denver Nuggets,PHI,DEN,Wells Fargo Center,126,121
+2024-01-16,Phoenix Suns,Sacramento Kings,PHX,SAC,Footprint Center,119,117
+2024-01-16,LA Clippers,Oklahoma City Thunder,LAC,OKC,Crypto.com Arena,128,117
+2024-01-17,Detroit Pistons,Minnesota Timberwolves,DET,MIN,Little Caesars Arena,117,124
+2024-01-17,Atlanta Hawks,Orlando Magic,ATL,ORL,State Farm Arena,106,104
+2024-01-17,Boston Celtics,San Antonio Spurs,BOS,SAS,TD Garden,117,98
+2024-01-17,Cleveland Cavaliers,Milwaukee Bucks,CLE,MIL,Rocket Mortgage FieldHouse,135,95
+2024-01-17,New York Knicks,Houston Rockets,NYK,HOU,Madison Square Garden,109,94
+2024-01-17,Toronto Raptors,Miami Heat,TOR,MIA,Scotiabank Arena,121,97
+2024-01-17,New Orleans Pelicans,Charlotte Hornets,NOP,CHA,Smoothie King Center,132,112
+2024-01-17,Los Angeles Lakers,Dallas Mavericks,LAL,DAL,Crypto.com Arena,127,110
+2024-01-17,Portland Trail Blazers,Brooklyn Nets,POR,BKN,Moda Center,105,103
+2024-01-18,New York Knicks,Washington Wizards,NYK,WAS,Madison Square Garden,113,109
+2024-01-18,Toronto Raptors,Chicago Bulls,TOR,CHI,Scotiabank Arena,110,116
+2024-01-18,Utah Jazz,Oklahoma City Thunder,UTA,OKC,Delta Center,129,134
+2024-01-18,Minnesota Timberwolves,Memphis Grizzlies,MIN,MEM,Target Center,118,103
+2024-01-18,Sacramento Kings,Indiana Pacers,SAC,IND,Golden 1 Center,121,126
+2024-01-19,Charlotte Hornets,San Antonio Spurs,CHA,SAS,Spectrum Center,124,120
+2024-01-19,Orlando Magic,Philadelphia 76ers,ORL,PHI,Kia Center,109,124
+2024-01-19,Boston Celtics,Denver Nuggets,BOS,DEN,TD Garden,100,102
+2024-01-19,Miami Heat,Atlanta Hawks,MIA,ATL,Kaseya Center,108,109
+2024-01-19,New Orleans Pelicans,Phoenix Suns,NOP,PHX,Smoothie King Center,109,123
+2024-01-19,Portland Trail Blazers,Indiana Pacers,POR,IND,Moda Center,118,115
+2024-01-19,Los Angeles Lakers,Brooklyn Nets,LAL,BKN,Crypto.com Arena,112,130
+2024-01-20,Detroit Pistons,Milwaukee Bucks,DET,MIL,Little Caesars Arena,135,141
+2024-01-20,Charlotte Hornets,Philadelphia 76ers,CHA,PHI,Spectrum Center,89,97
+2024-01-20,Washington Wizards,San Antonio Spurs,WAS,SAS,Capital One Arena,127,131
+2024-01-20,Atlanta Hawks,Cleveland Cavaliers,ATL,CLE,State Farm Arena,95,116
+2024-01-20,New York Knicks,Toronto Raptors,NYK,TOR,Madison Square Garden,126,100
+2024-01-20,Chicago Bulls,Memphis Grizzlies,CHI,MEM,United Center,125,96
+2024-01-20,Houston Rockets,Utah Jazz,HOU,UTA,Toyota Center,127,126
+2024-01-20,Minnesota Timberwolves,Oklahoma City Thunder,MIN,OKC,Target Center,97,102
+2024-01-21,LA Clippers,Brooklyn Nets,LAC,BKN,Crypto.com Arena,125,114
+2024-01-21,Orlando Magic,Miami Heat,ORL,MIA,Kia Center,105,87
+2024-01-21,Washington Wizards,Denver Nuggets,WAS,DEN,Capital One Arena,104,113
+2024-01-21,Houston Rockets,Boston Celtics,HOU,BOS,Toyota Center,107,116
+2024-01-21,Phoenix Suns,Indiana Pacers,PHX,IND,Footprint Center,117,110
+2024-01-21,Los Angeles Lakers,Portland Trail Blazers,LAL,POR,Crypto.com Arena,134,110
+2024-01-22,Detroit Pistons,Milwaukee Bucks,DET,MIL,Little Caesars Arena,113,122
+2024-01-22,Orlando Magic,Cleveland Cavaliers,ORL,CLE,Kia Center,99,126
+2024-01-22,Philadelphia 76ers,San Antonio Spurs,PHI,SAS,Wells Fargo Center,133,123
+2024-01-22,Toronto Raptors,Memphis Grizzlies,TOR,MEM,Scotiabank Arena,100,108
+2024-01-22,Minnesota Timberwolves,Charlotte Hornets,MIN,CHA,Target Center,125,128
+2024-01-22,Dallas Mavericks,Boston Celtics,DAL,BOS,American Airlines Center,110,119
+2024-01-22,Phoenix Suns,Chicago Bulls,PHX,CHI,Footprint Center,115,113
+2024-01-22,Sacramento Kings,Atlanta Hawks,SAC,ATL,Golden 1 Center,122,107
+2024-01-23,Indiana Pacers,Denver Nuggets,IND,DEN,Gainbridge Fieldhouse,109,114
+2024-01-23,Brooklyn Nets,New York Knicks,BKN,NYK,Barclays Center,103,108
+2024-01-23,New Orleans Pelicans,Utah Jazz,NOP,UTA,Smoothie King Center,153,124
+2024-01-23,Oklahoma City Thunder,Portland Trail Blazers,OKC,POR,Paycom Center,111,109
+2024-01-23,LA Clippers,Los Angeles Lakers,LAC,LAL,Crypto.com Arena,127,116
+2024-01-24,Detroit Pistons,Charlotte Hornets,DET,CHA,Little Caesars Arena,113,106
+2024-01-24,Washington Wizards,Minnesota Timberwolves,WAS,MIN,Capital One Arena,107,118
+2024-01-24,Miami Heat,Memphis Grizzlies,MIA,MEM,Kaseya Center,96,105
+2024-01-24,Houston Rockets,Portland Trail Blazers,HOU,POR,Toyota Center,131,137
+2024-01-24,Milwaukee Bucks,Cleveland Cavaliers,MIL,CLE,Fiserv Forum,126,116
+2024-01-24,Dallas Mavericks,Phoenix Suns,DAL,PHX,American Airlines Center,109,132
+2024-01-24,San Antonio Spurs,Oklahoma City Thunder,SAS,OKC,Frost Bank Center,114,140
+2024-01-24,Golden State Warriors,Atlanta Hawks,GSW,ATL,Chase Center,134,112
+2024-01-25,Indiana Pacers,Philadelphia 76ers,IND,PHI,Gainbridge Fieldhouse,134,122
+2024-01-25,Washington Wizards,Utah Jazz,WAS,UTA,Capital One Arena,108,123
+2024-01-25,Brooklyn Nets,Minnesota Timberwolves,BKN,MIN,Barclays Center,94,96
+2024-01-25,Miami Heat,Boston Celtics,MIA,BOS,Kaseya Center,110,143
+2024-01-25,New York Knicks,Denver Nuggets,NYK,DEN,Madison Square Garden,122,84
+2024-01-25,Golden State Warriors,Sacramento Kings,GSW,SAC,Chase Center,133,134
+2024-01-25,Los Angeles Lakers,Chicago Bulls,LAL,CHI,Crypto.com Arena,141,132
+2024-01-26,Atlanta Hawks,Dallas Mavericks,ATL,DAL,State Farm Arena,143,148
+2024-01-26,Charlotte Hornets,Houston Rockets,CHA,HOU,Spectrum Center,104,138
+2024-01-26,Indiana Pacers,Phoenix Suns,IND,PHX,Gainbridge Fieldhouse,133,131
+2024-01-26,Toronto Raptors,LA Clippers,TOR,LAC,Scotiabank Arena,107,127
+2024-01-26,Memphis Grizzlies,Orlando Magic,MEM,ORL,FedExForum,107,106
+2024-01-26,Milwaukee Bucks,Cleveland Cavaliers,MIL,CLE,Fiserv Forum,100,112
+2024-01-26,New Orleans Pelicans,Oklahoma City Thunder,NOP,OKC,Smoothie King Center,83,107
+2024-01-26,San Antonio Spurs,Portland Trail Blazers,SAS,POR,Frost Bank Center,116,100
+2024-01-27,Detroit Pistons,Washington Wizards,DET,WAS,Little Caesars Arena,104,118
+2024-01-27,New York Knicks,Miami Heat,NYK,MIA,Madison Square Garden,125,109
+2024-01-27,Denver Nuggets,Philadelphia 76ers,DEN,PHI,Ball Arena,111,105
+2024-01-27,Brooklyn Nets,Houston Rockets,BKN,HOU,Barclays Center,106,104
+2024-01-27,Boston Celtics,LA Clippers,BOS,LAC,TD Garden,96,115
+2024-01-27,Charlotte Hornets,Utah Jazz,CHA,UTA,Spectrum Center,122,134
+2024-01-27,Milwaukee Bucks,New Orleans Pelicans,MIL,NOP,Fiserv Forum,141,117
+2024-01-27,San Antonio Spurs,Minnesota Timberwolves,SAS,MIN,Frost Bank Center,113,112
+2024-01-27,Golden State Warriors,Los Angeles Lakers,GSW,LAL,Chase Center,144,145
+2024-01-27,Dallas Mavericks,Sacramento Kings,DAL,SAC,American Airlines Center,115,120
+2024-01-28,Detroit Pistons,Oklahoma City Thunder,DET,OKC,Little Caesars Arena,120,104
+2024-01-28,Indiana Pacers,Memphis Grizzlies,IND,MEM,Gainbridge Fieldhouse,116,110
+2024-01-28,Atlanta Hawks,Toronto Raptors,ATL,TOR,State Farm Arena,126,125
+2024-01-28,Orlando Magic,Phoenix Suns,ORL,PHX,Kia Center,113,98
+2024-01-28,Portland Trail Blazers,Chicago Bulls,POR,CHI,Moda Center,96,104
+2024-01-29,Charlotte Hornets,New York Knicks,CHA,NYK,Spectrum Center,92,113
+2024-01-29,Cleveland Cavaliers,LA Clippers,CLE,LAC,Rocket Mortgage FieldHouse,118,108
+2024-01-29,Boston Celtics,New Orleans Pelicans,BOS,NOP,TD Garden,118,112
+2024-01-29,Brooklyn Nets,Utah Jazz,BKN,UTA,Barclays Center,147,114
+2024-01-29,Miami Heat,Phoenix Suns,MIA,PHX,Kaseya Center,105,118
+2024-01-29,Houston Rockets,Los Angeles Lakers,HOU,LAL,Toyota Center,135,119
+2024-01-29,Memphis Grizzlies,Sacramento Kings,MEM,SAC,FedExForum,94,103
+2024-01-29,Oklahoma City Thunder,Minnesota Timberwolves,OKC,MIN,Paycom Center,101,107
+2024-01-29,San Antonio Spurs,Washington Wizards,SAS,WAS,Frost Bank Center,113,118
+2024-01-29,Dallas Mavericks,Orlando Magic,DAL,ORL,American Airlines Center,131,129
+2024-01-29,Denver Nuggets,Milwaukee Bucks,DEN,MIL,Ball Arena,113,107
+2024-01-29,Portland Trail Blazers,Philadelphia 76ers,POR,PHI,Moda Center,130,104
+2024-01-30,Atlanta Hawks,Los Angeles Lakers,ATL,LAL,State Farm Arena,138,122
+2024-01-30,Boston Celtics,Indiana Pacers,BOS,IND,TD Garden,129,124
+2024-01-30,New York Knicks,Utah Jazz,NYK,UTA,Madison Square Garden,118,103
+2024-01-30,Chicago Bulls,Toronto Raptors,CHI,TOR,United Center,107,118
+2024-01-30,Golden State Warriors,Philadelphia 76ers,GSW,PHI,Chase Center,119,107
+2024-01-31,Charlotte Hornets,Chicago Bulls,CHA,CHI,Spectrum Center,110,117
+2024-01-31,Cleveland Cavaliers,Detroit Pistons,CLE,DET,Rocket Mortgage FieldHouse,128,121
+2024-01-31,Washington Wizards,LA Clippers,WAS,LAC,Capital One Arena,109,125
+2024-01-31,Miami Heat,Sacramento Kings,MIA,SAC,Kaseya Center,115,106
+2024-01-31,Houston Rockets,New Orleans Pelicans,HOU,NOP,Toyota Center,99,110
+2024-01-31,Minnesota Timberwolves,Dallas Mavericks,MIN,DAL,Target Center,121,87
+2024-01-31,San Antonio Spurs,Orlando Magic,SAS,ORL,Frost Bank Center,98,108
+2024-01-31,Oklahoma City Thunder,Denver Nuggets,OKC,DEN,Paycom Center,105,100
+2024-01-31,Brooklyn Nets,Phoenix Suns,BKN,PHX,Barclays Center,120,136
+2024-01-31,Portland Trail Blazers,Milwaukee Bucks,POR,MIL,Moda Center,119,116
+2024-02-01,Boston Celtics,Los Angeles Lakers,BOS,LAL,TD Garden,105,114
+2024-02-01,New York Knicks,Indiana Pacers,NYK,IND,Madison Square Garden,109,105
+2024-02-01,Memphis Grizzlies,Cleveland Cavaliers,MEM,CLE,FedExForum,101,108
+2024-02-01,Utah Jazz,Philadelphia 76ers,UTA,PHI,Delta Center,124,127
+2024-02-02,Detroit Pistons,LA Clippers,DET,LAC,Little Caesars Arena,125,136
+2024-02-02,Washington Wizards,Miami Heat,WAS,MIA,Capital One Arena,102,110
+2024-02-02,Atlanta Hawks,Phoenix Suns,ATL,PHX,State Farm Arena,129,120
+2024-02-02,Indiana Pacers,Sacramento Kings,IND,SAC,Gainbridge Fieldhouse,122,133
+2024-02-02,Houston Rockets,Toronto Raptors,HOU,TOR,Toyota Center,135,106
+2024-02-02,Memphis Grizzlies,Golden State Warriors,MEM,GSW,FedExForum,101,121
+2024-02-02,Minnesota Timberwolves,Orlando Magic,MIN,ORL,Target Center,106,108
+2024-02-02,Oklahoma City Thunder,Charlotte Hornets,OKC,CHA,Paycom Center,126,106
+2024-02-02,San Antonio Spurs,New Orleans Pelicans,SAS,NOP,Frost Bank Center,113,114
+2024-02-02,Denver Nuggets,Portland Trail Blazers,DEN,POR,Ball Arena,120,108
+2024-02-03,Philadelphia 76ers,Brooklyn Nets,PHI,BKN,Wells Fargo Center,121,136
+2024-02-03,Atlanta Hawks,Golden State Warriors,ATL,GSW,State Farm Arena,141,134
+2024-02-03,Chicago Bulls,Sacramento Kings,CHI,SAC,United Center,115,123
+2024-02-03,New York Knicks,Los Angeles Lakers,NYK,LAL,Madison Square Garden,105,113
+2024-02-03,Dallas Mavericks,Milwaukee Bucks,DAL,MIL,American Airlines Center,117,129
+2024-02-03,San Antonio Spurs,Cleveland Cavaliers,SAS,CLE,Frost Bank Center,101,117
+2024-02-04,Detroit Pistons,Orlando Magic,DET,ORL,Little Caesars Arena,99,111
+2024-02-04,Washington Wizards,Phoenix Suns,WAS,PHX,Capital One Arena,112,140
+2024-02-04,Boston Celtics,Memphis Grizzlies,BOS,MEM,TD Garden,131,91
+2024-02-04,Charlotte Hornets,Indiana Pacers,CHA,IND,Spectrum Center,99,115
+2024-02-04,Miami Heat,LA Clippers,MIA,LAC,Kaseya Center,95,103
+2024-02-04,Minnesota Timberwolves,Houston Rockets,MIN,HOU,Target Center,111,90
+2024-02-04,Oklahoma City Thunder,Toronto Raptors,OKC,TOR,Paycom Center,135,127
+2024-02-04,Utah Jazz,Milwaukee Bucks,UTA,MIL,Delta Center,123,108
+2024-02-04,Denver Nuggets,Portland Trail Blazers,DEN,POR,Ball Arena,112,103
+2024-02-05,Charlotte Hornets,Los Angeles Lakers,CHA,LAL,Spectrum Center,118,124
+2024-02-05,Cleveland Cavaliers,Sacramento Kings,CLE,SAC,Rocket Mortgage FieldHouse,136,110
+2024-02-05,Philadelphia 76ers,Dallas Mavericks,PHI,DAL,Wells Fargo Center,102,118
+2024-02-05,Atlanta Hawks,LA Clippers,ATL,LAC,State Farm Arena,144,149
+2024-02-05,Brooklyn Nets,Golden State Warriors,BKN,GSW,Barclays Center,98,109
+2024-02-05,New Orleans Pelicans,Toronto Raptors,NOP,TOR,Smoothie King Center,138,100
+2024-02-06,Indiana Pacers,Houston Rockets,IND,HOU,Gainbridge Fieldhouse,132,129
+2024-02-06,Brooklyn Nets,Dallas Mavericks,BKN,DAL,Barclays Center,107,119
+2024-02-06,Miami Heat,Orlando Magic,MIA,ORL,Kaseya Center,121,95
+2024-02-06,New York Knicks,Memphis Grizzlies,NYK,MEM,Madison Square Garden,123,113
+2024-02-06,Chicago Bulls,Minnesota Timberwolves,CHI,MIN,United Center,129,123
+2024-02-06,Utah Jazz,Oklahoma City Thunder,UTA,OKC,Delta Center,124,117
+2024-02-06,Phoenix Suns,Milwaukee Bucks,PHX,MIL,Footprint Center,114,106
+2024-02-07,Charlotte Hornets,Toronto Raptors,CHA,TOR,Spectrum Center,117,123
+2024-02-07,Washington Wizards,Cleveland Cavaliers,WAS,CLE,Capital One Arena,106,114
+2024-02-07,Philadelphia 76ers,Golden State Warriors,PHI,GSW,Wells Fargo Center,104,127
+2024-02-07,Boston Celtics,Atlanta Hawks,BOS,ATL,TD Garden,125,117
+2024-02-07,Miami Heat,San Antonio Spurs,MIA,SAS,Kaseya Center,116,104
+2024-02-07,LA Clippers,New Orleans Pelicans,LAC,NOP,Crypto.com Arena,106,117
+2024-02-07,Sacramento Kings,Detroit Pistons,SAC,DET,Golden 1 Center,120,133
+2024-02-08,Indiana Pacers,Golden State Warriors,IND,GSW,Gainbridge Fieldhouse,109,131
+2024-02-08,Orlando Magic,San Antonio Spurs,ORL,SAS,Kia Center,127,111
+2024-02-08,Brooklyn Nets,Cleveland Cavaliers,BKN,CLE,Barclays Center,95,118
+2024-02-08,New York Knicks,Dallas Mavericks,NYK,DAL,Madison Square Garden,108,122
+2024-02-08,Memphis Grizzlies,Chicago Bulls,MEM,CHI,FedExForum,110,118
+2024-02-08,Milwaukee Bucks,Minnesota Timberwolves,MIL,MIN,Fiserv Forum,105,129
+2024-02-08,Phoenix Suns,Utah Jazz,PHX,UTA,Footprint Center,129,115
+2024-02-08,Los Angeles Lakers,Denver Nuggets,LAL,DEN,Crypto.com Arena,106,114
+2024-02-08,Portland Trail Blazers,Detroit Pistons,POR,DET,Moda Center,122,128
+2024-02-09,Philadelphia 76ers,Atlanta Hawks,PHI,ATL,Wells Fargo Center,121,127
+2024-02-09,Boston Celtics,Washington Wizards,BOS,WAS,TD Garden,133,129
+2024-02-09,Toronto Raptors,Houston Rockets,TOR,HOU,Scotiabank Arena,107,104
+2024-02-09,Milwaukee Bucks,Charlotte Hornets,MIL,CHA,Fiserv Forum,120,84
+2024-02-09,Sacramento Kings,Denver Nuggets,SAC,DEN,Golden 1 Center,135,106
+2024-02-09,Los Angeles Lakers,New Orleans Pelicans,LAL,NOP,Crypto.com Arena,139,122
+2024-02-10,Dallas Mavericks,Oklahoma City Thunder,DAL,OKC,American Airlines Center,146,111
+2024-02-10,LA Clippers,Detroit Pistons,LAC,DET,Crypto.com Arena,112,106
+2024-02-10,Brooklyn Nets,San Antonio Spurs,BKN,SAS,Barclays Center,123,103
+2024-02-10,Charlotte Hornets,Memphis Grizzlies,CHA,MEM,Spectrum Center,115,106
+2024-02-10,Orlando Magic,Chicago Bulls,ORL,CHI,Kia Center,114,108
+2024-02-10,Washington Wizards,Philadelphia 76ers,WAS,PHI,Capital One Arena,113,119
+2024-02-10,Atlanta Hawks,Houston Rockets,ATL,HOU,State Farm Arena,122,113
+2024-02-10,New York Knicks,Indiana Pacers,NYK,IND,Madison Square Garden,111,125
+2024-02-10,Toronto Raptors,Cleveland Cavaliers,TOR,CLE,Scotiabank Arena,95,119
+2024-02-10,Golden State Warriors,Phoenix Suns,GSW,PHX,Chase Center,113,112
+2024-02-10,Portland Trail Blazers,New Orleans Pelicans,POR,NOP,Moda Center,84,93
+2024-02-11,Miami Heat,Boston Celtics,MIA,BOS,Kaseya Center,106,110
+2024-02-11,Oklahoma City Thunder,Sacramento Kings,OKC,SAC,Paycom Center,127,113
+2024-02-12,Charlotte Hornets,Indiana Pacers,CHA,IND,Spectrum Center,111,102
+2024-02-12,Cleveland Cavaliers,Philadelphia 76ers,CLE,PHI,Rocket Mortgage FieldHouse,121,123
+2024-02-12,Atlanta Hawks,Chicago Bulls,ATL,CHI,State Farm Arena,126,136
+2024-02-12,Toronto Raptors,San Antonio Spurs,TOR,SAS,Scotiabank Arena,99,122
+2024-02-12,Houston Rockets,New York Knicks,HOU,NYK,Toyota Center,105,103
+2024-02-12,Memphis Grizzlies,New Orleans Pelicans,MEM,NOP,FedExForum,87,96
+2024-02-12,Milwaukee Bucks,Denver Nuggets,MIL,DEN,Fiserv Forum,112,95
+2024-02-12,Dallas Mavericks,Washington Wizards,DAL,WAS,American Airlines Center,112,104
+2024-02-12,Utah Jazz,Golden State Warriors,UTA,GSW,Delta Center,107,129
+2024-02-12,LA Clippers,Minnesota Timberwolves,LAC,MIN,Crypto.com Arena,100,121
+2024-02-13,Brooklyn Nets,Boston Celtics,BKN,BOS,Barclays Center,110,118
+2024-02-13,Orlando Magic,Oklahoma City Thunder,ORL,OKC,Kia Center,113,127
+2024-02-13,Milwaukee Bucks,Miami Heat,MIL,MIA,Fiserv Forum,97,123
+2024-02-13,Phoenix Suns,Sacramento Kings,PHX,SAC,Footprint Center,130,125
+2024-02-13,Portland Trail Blazers,Minnesota Timberwolves,POR,MIN,Moda Center,109,121
+2024-02-13,Los Angeles Lakers,Detroit Pistons,LAL,DET,Crypto.com Arena,125,111
+2024-02-14,Charlotte Hornets,Atlanta Hawks,CHA,ATL,Spectrum Center,122,99
+2024-02-14,Orlando Magic,New York Knicks,ORL,NYK,Kia Center,118,100
+2024-02-14,Philadelphia 76ers,Miami Heat,PHI,MIA,Wells Fargo Center,104,109
+2024-02-14,Boston Celtics,Brooklyn Nets,BOS,BKN,TD Garden,136,86
+2024-02-14,Cleveland Cavaliers,Chicago Bulls,CLE,CHI,Rocket Mortgage FieldHouse,108,105
+2024-02-14,Toronto Raptors,Indiana Pacers,TOR,IND,Scotiabank Arena,125,127
+2024-02-14,Memphis Grizzlies,Houston Rockets,MEM,HOU,FedExForum,121,113
+2024-02-14,New Orleans Pelicans,Washington Wizards,NOP,WAS,Smoothie King Center,133,126
+2024-02-14,Dallas Mavericks,San Antonio Spurs,DAL,SAS,American Airlines Center,116,93
+2024-02-14,Denver Nuggets,Sacramento Kings,DEN,SAC,Ball Arena,98,102
+2024-02-14,Phoenix Suns,Detroit Pistons,PHX,DET,Footprint Center,116,100
+2024-02-14,Utah Jazz,Los Angeles Lakers,UTA,LAL,Delta Center,122,138
+2024-02-14,Golden State Warriors,LA Clippers,GSW,LAC,Chase Center,125,130
+2024-02-15,Memphis Grizzlies,Milwaukee Bucks,MEM,MIL,FedExForum,113,110
+2024-02-15,Utah Jazz,Golden State Warriors,UTA,GSW,Delta Center,137,140
+2024-02-15,Portland Trail Blazers,Minnesota Timberwolves,POR,MIN,Moda Center,91,128
+2024-02-16,Team Tamika,Team Jalen,TAM,JAL,Gainbridge Fieldhouse,35,40
+2024-02-16,Team Pau,Team Detlef,PAU,DLF,Gainbridge Fieldhouse,36,41
+2024-02-16,Team Jalen,Team Detlef,JAL,DLF,Gainbridge Fieldhouse,26,13
+2024-02-18,East NBA All Stars East,West NBA All Stars West,EST,WST,Gainbridge Fieldhouse,211,186
+2024-02-22,Cleveland Cavaliers,Orlando Magic,CLE,ORL,Rocket Mortgage FieldHouse,109,116
+2024-02-22,Indiana Pacers,Detroit Pistons,IND,DET,Gainbridge Fieldhouse,129,115
+2024-02-22,Philadelphia 76ers,New York Knicks,PHI,NYK,Wells Fargo Center,96,110
+2024-02-22,Toronto Raptors,Brooklyn Nets,TOR,BKN,Scotiabank Arena,121,93
+2024-02-22,Dallas Mavericks,Phoenix Suns,DAL,PHX,American Airlines Center,123,113
+2024-02-22,Chicago Bulls,Boston Celtics,CHI,BOS,United Center,112,129
+2024-02-22,New Orleans Pelicans,Houston Rockets,NOP,HOU,Smoothie King Center,127,105
+2024-02-22,Oklahoma City Thunder,LA Clippers,OKC,LAC,Paycom Center,129,107
+2024-02-22,Denver Nuggets,Washington Wizards,DEN,WAS,Ball Arena,130,110
+2024-02-22,Utah Jazz,Charlotte Hornets,UTA,CHA,Delta Center,107,115
+2024-02-22,Golden State Warriors,Los Angeles Lakers,GSW,LAL,Chase Center,128,110
+2024-02-22,Sacramento Kings,San Antonio Spurs,SAC,SAS,Golden 1 Center,127,122
+2024-02-23,Atlanta Hawks,Toronto Raptors,ATL,TOR,State Farm Arena,121,123
+2024-02-23,Philadelphia 76ers,Cleveland Cavaliers,PHI,CLE,Wells Fargo Center,104,97
+2024-02-23,Houston Rockets,Phoenix Suns,HOU,PHX,Toyota Center,114,110
+2024-02-23,Memphis Grizzlies,LA Clippers,MEM,LAC,FedExForum,95,101
+2024-02-23,Oklahoma City Thunder,Washington Wizards,OKC,WAS,Paycom Center,147,106
+2024-02-23,New Orleans Pelicans,Miami Heat,NOP,MIA,Smoothie King Center,95,106
+2024-02-23,Minnesota Timberwolves,Milwaukee Bucks,MIN,MIL,Target Center,107,112
+2024-02-23,Golden State Warriors,Charlotte Hornets,GSW,CHA,Chase Center,97,84
+2024-02-23,Portland Trail Blazers,Denver Nuggets,POR,DEN,Moda Center,112,127
+2024-02-23,Los Angeles Lakers,San Antonio Spurs,LAL,SAS,Crypto.com Arena,123,118
+2024-02-24,Detroit Pistons,Orlando Magic,DET,ORL,Little Caesars Arena,109,112
+2024-02-24,New York Knicks,Boston Celtics,NYK,BOS,Madison Square Garden,102,116
+2024-02-24,Minnesota Timberwolves,Brooklyn Nets,MIN,BKN,Target Center,101,86
+2024-02-25,Philadelphia 76ers,Milwaukee Bucks,PHI,MIL,Wells Fargo Center,98,119
+2024-02-25,Phoenix Suns,Los Angeles Lakers,PHX,LAL,Footprint Center,123,113
+2024-02-25,Indiana Pacers,Dallas Mavericks,IND,DAL,Gainbridge Fieldhouse,133,111
+2024-02-25,Washington Wizards,Cleveland Cavaliers,WAS,CLE,Capital One Arena,105,114
+2024-02-25,Atlanta Hawks,Orlando Magic,ATL,ORL,State Farm Arena,109,92
+2024-02-25,Houston Rockets,Oklahoma City Thunder,HOU,OKC,Toyota Center,110,123
+2024-02-25,New Orleans Pelicans,Chicago Bulls,NOP,CHI,Smoothie King Center,106,114
+2024-02-25,Golden State Warriors,Denver Nuggets,GSW,DEN,Chase Center,103,119
+2024-02-25,Utah Jazz,San Antonio Spurs,UTA,SAS,Delta Center,128,109
+2024-02-25,Portland Trail Blazers,Charlotte Hornets,POR,CHA,Moda Center,80,93
+2024-02-25,LA Clippers,Sacramento Kings,LAC,SAC,Crypto.com Arena,107,123
+2024-02-26,Indiana Pacers,Toronto Raptors,IND,TOR,Gainbridge Fieldhouse,122,130
+2024-02-26,New York Knicks,Detroit Pistons,NYK,DET,Madison Square Garden,113,111
+2024-02-26,Memphis Grizzlies,Brooklyn Nets,MEM,BKN,FedExForum,86,111
+2024-02-26,Sacramento Kings,Miami Heat,SAC,MIA,Golden 1 Center,110,121
+2024-02-27,Cleveland Cavaliers,Dallas Mavericks,CLE,DAL,Rocket Mortgage FieldHouse,121,119
+2024-02-27,Orlando Magic,Brooklyn Nets,ORL,BKN,Kia Center,108,81
+2024-02-27,Washington Wizards,Golden State Warriors,WAS,GSW,Capital One Arena,112,123
+2024-02-27,Atlanta Hawks,Utah Jazz,ATL,UTA,State Farm Arena,124,97
+2024-02-27,Boston Celtics,Philadelphia 76ers,BOS,PHI,TD Garden,117,99
+2024-02-27,New York Knicks,New Orleans Pelicans,NYK,NOP,Madison Square Garden,92,115
+2024-02-27,Minnesota Timberwolves,San Antonio Spurs,MIN,SAS,Target Center,114,105
+2024-02-27,Chicago Bulls,Detroit Pistons,CHI,DET,United Center,95,105
+2024-02-27,Milwaukee Bucks,Charlotte Hornets,MIL,CHA,Fiserv Forum,123,85
+2024-02-27,Oklahoma City Thunder,Houston Rockets,OKC,HOU,Paycom Center,112,95
+2024-02-27,Portland Trail Blazers,Miami Heat,POR,MIA,Moda Center,96,106
+2024-02-28,Indiana Pacers,New Orleans Pelicans,IND,NOP,Gainbridge Fieldhouse,123,114
+2024-02-28,Toronto Raptors,Dallas Mavericks,TOR,DAL,Scotiabank Arena,125,136
+2024-02-28,Minnesota Timberwolves,Memphis Grizzlies,MIN,MEM,Target Center,110,101
+2024-02-28,Chicago Bulls,Cleveland Cavaliers,CHI,CLE,United Center,132,123
+2024-02-28,Denver Nuggets,Sacramento Kings,DEN,SAC,Ball Arena,117,96
+2024-02-28,LA Clippers,Los Angeles Lakers,LAC,LAL,Crypto.com Arena,112,116
+2024-02-29,Charlotte Hornets,Milwaukee Bucks,CHA,MIL,Spectrum Center,99,111
+2024-02-29,Orlando Magic,Utah Jazz,ORL,UTA,Kia Center,115,107
+2024-02-29,Brooklyn Nets,Atlanta Hawks,BKN,ATL,Barclays Center,124,97
+2024-02-29,New York Knicks,Golden State Warriors,NYK,GSW,Madison Square Garden,99,110
+2024-02-29,San Antonio Spurs,Oklahoma City Thunder,SAS,OKC,Frost Bank Center,132,118
+2024-02-29,Phoenix Suns,Houston Rockets,PHX,HOU,Footprint Center,110,105
+2024-02-29,Denver Nuggets,Miami Heat,DEN,MIA,Ball Arena,103,97
+2024-02-29,Los Angeles Lakers,Washington Wizards,LAL,WAS,Crypto.com Arena,134,131
+2024-03-01,Detroit Pistons,Cleveland Cavaliers,DET,CLE,Little Caesars Arena,100,110
+2024-03-01,Philadelphia 76ers,Charlotte Hornets,PHI,CHA,Wells Fargo Center,121,114
+2024-03-01,Boston Celtics,Dallas Mavericks,BOS,DAL,TD Garden,138,110
+2024-03-01,Toronto Raptors,Golden State Warriors,TOR,GSW,Scotiabank Arena,105,120
+2024-03-01,Memphis Grizzlies,Portland Trail Blazers,MEM,POR,FedExForum,92,122
+2024-03-01,Minnesota Timberwolves,Sacramento Kings,MIN,SAC,Target Center,120,124
+2024-03-01,New Orleans Pelicans,Indiana Pacers,NOP,IND,Smoothie King Center,129,102
+2024-03-01,Chicago Bulls,Milwaukee Bucks,CHI,MIL,United Center,97,113
+2024-03-01,LA Clippers,Washington Wizards,LAC,WAS,Crypto.com Arena,140,115
+2024-03-02,Brooklyn Nets,Atlanta Hawks,BKN,ATL,Barclays Center,114,102
+2024-03-02,Miami Heat,Utah Jazz,MIA,UTA,Kaseya Center,126,120
+2024-03-02,Memphis Grizzlies,Portland Trail Blazers,MEM,POR,FedExForum,100,107
+2024-03-02,Los Angeles Lakers,Denver Nuggets,LAL,DEN,Crypto.com Arena,114,124
+2024-03-02,Phoenix Suns,Houston Rockets,PHX,HOU,Footprint Center,109,118
+2024-03-03,Dallas Mavericks,Philadelphia 76ers,DAL,PHI,American Airlines Center,116,120
+2024-03-03,Boston Celtics,Golden State Warriors,BOS,GSW,TD Garden,140,88
+2024-03-03,Minnesota Timberwolves,LA Clippers,MIN,LAC,Target Center,88,89
+2024-03-03,Orlando Magic,Detroit Pistons,ORL,DET,Kia Center,113,91
+2024-03-03,Toronto Raptors,Charlotte Hornets,TOR,CHA,Scotiabank Arena,111,106
+2024-03-03,Cleveland Cavaliers,New York Knicks,CLE,NYK,Rocket Mortgage FieldHouse,98,107
+2024-03-03,San Antonio Spurs,Indiana Pacers,SAS,IND,Frost Bank Center,117,105
+2024-03-03,Phoenix Suns,Oklahoma City Thunder,PHX,OKC,Footprint Center,110,118
+2024-03-04,Brooklyn Nets,Memphis Grizzlies,BKN,MEM,Barclays Center,102,106
+2024-03-04,Milwaukee Bucks,LA Clippers,MIL,LAC,Fiserv Forum,113,106
+2024-03-04,Minnesota Timberwolves,Portland Trail Blazers,MIN,POR,Target Center,119,114
+2024-03-04,Utah Jazz,Washington Wizards,UTA,WAS,Delta Center,127,115
+2024-03-04,Sacramento Kings,Chicago Bulls,SAC,CHI,Golden 1 Center,109,113
+2024-03-04,Los Angeles Lakers,Oklahoma City Thunder,LAL,OKC,Crypto.com Arena,116,104
+2024-03-05,Charlotte Hornets,Orlando Magic,CHA,ORL,Spectrum Center,89,101
+2024-03-05,Cleveland Cavaliers,Boston Celtics,CLE,BOS,Rocket Mortgage FieldHouse,105,104
+2024-03-05,Brooklyn Nets,Philadelphia 76ers,BKN,PHI,Barclays Center,112,107
+2024-03-05,Miami Heat,Detroit Pistons,MIA,DET,Kaseya Center,118,110
+2024-03-05,New York Knicks,Atlanta Hawks,NYK,ATL,Madison Square Garden,100,116
+2024-03-05,Toronto Raptors,New Orleans Pelicans,TOR,NOP,Scotiabank Arena,98,139
+2024-03-05,Houston Rockets,San Antonio Spurs,HOU,SAS,Toyota Center,114,101
+2024-03-05,Dallas Mavericks,Indiana Pacers,DAL,IND,American Airlines Center,120,137
+2024-03-05,Denver Nuggets,Phoenix Suns,DEN,PHX,Ball Arena,107,117
+2024-03-06,Washington Wizards,Orlando Magic,WAS,ORL,Capital One Arena,109,119
+2024-03-06,Atlanta Hawks,Cleveland Cavaliers,ATL,CLE,State Farm Arena,112,101
+2024-03-06,Philadelphia 76ers,Memphis Grizzlies,PHI,MEM,Wells Fargo Center,109,115
+2024-03-06,Houston Rockets,LA Clippers,HOU,LAC,Toyota Center,116,122
+2024-03-06,Utah Jazz,Chicago Bulls,UTA,CHI,Delta Center,117,119
+2024-03-06,Golden State Warriors,Milwaukee Bucks,GSW,MIL,Chase Center,125,90
+2024-03-06,Portland Trail Blazers,Oklahoma City Thunder,POR,OKC,Moda Center,120,128
+2024-03-06,Los Angeles Lakers,Sacramento Kings,LAL,SAC,Crypto.com Arena,120,130
+2024-03-07,Detroit Pistons,Brooklyn Nets,DET,BKN,Little Caesars Arena,118,112
+2024-03-07,Indiana Pacers,Minnesota Timberwolves,IND,MIN,Gainbridge Fieldhouse,111,113
+2024-03-07,Dallas Mavericks,Miami Heat,DAL,MIA,American Airlines Center,114,108
+2024-03-07,Phoenix Suns,Toronto Raptors,PHX,TOR,Footprint Center,120,113
+2024-03-07,Denver Nuggets,Boston Celtics,DEN,BOS,Ball Arena,115,109
+2024-03-07,Golden State Warriors,Chicago Bulls,GSW,CHI,Chase Center,122,125
+2024-03-07,Sacramento Kings,San Antonio Spurs,SAC,SAS,Golden 1 Center,131,129
+2024-03-08,Philadelphia 76ers,New Orleans Pelicans,PHI,NOP,Wells Fargo Center,95,103
+2024-03-08,Washington Wizards,Charlotte Hornets,WAS,CHA,Capital One Arena,112,100
+2024-03-08,Cleveland Cavaliers,Minnesota Timberwolves,CLE,MIN,Rocket Mortgage FieldHouse,113,104
+2024-03-08,New York Knicks,Orlando Magic,NYK,ORL,Madison Square Garden,98,74
+2024-03-08,Memphis Grizzlies,Atlanta Hawks,MEM,ATL,FedExForum,92,99
+2024-03-08,Oklahoma City Thunder,Miami Heat,OKC,MIA,Paycom Center,107,100
+2024-03-08,Los Angeles Lakers,Milwaukee Bucks,LAL,MIL,Crypto.com Arena,123,122
+2024-03-08,Portland Trail Blazers,Houston Rockets,POR,HOU,Moda Center,107,123
+2024-03-09,LA Clippers,Chicago Bulls,LAC,CHI,Crypto.com Arena,112,102
+2024-03-09,Charlotte Hornets,Brooklyn Nets,CHA,BKN,Spectrum Center,110,99
+2024-03-09,Detroit Pistons,Dallas Mavericks,DET,DAL,Little Caesars Arena,124,142
+2024-03-09,Phoenix Suns,Boston Celtics,PHX,BOS,Footprint Center,107,117
+2024-03-09,Golden State Warriors,San Antonio Spurs,GSW,SAS,Chase Center,113,126
+2024-03-09,Denver Nuggets,Utah Jazz,DEN,UTA,Ball Arena,142,121
+2024-03-09,Portland Trail Blazers,Toronto Raptors,POR,TOR,Moda Center,128,118
+2024-03-10,LA Clippers,Milwaukee Bucks,LAC,MIL,Crypto.com Arena,117,124
+2024-03-10,Atlanta Hawks,New Orleans Pelicans,ATL,NOP,State Farm Arena,103,116
+2024-03-10,Miami Heat,Washington Wizards,MIA,WAS,Kaseya Center,108,110
+2024-03-10,Orlando Magic,Indiana Pacers,ORL,IND,Kia Center,97,111
+2024-03-10,Sacramento Kings,Houston Rockets,SAC,HOU,Golden 1 Center,104,112
+2024-03-10,New York Knicks,Philadelphia 76ers,NYK,PHI,Madison Square Garden,73,79
+2024-03-10,Cleveland Cavaliers,Brooklyn Nets,CLE,BKN,Rocket Mortgage FieldHouse,101,120
+2024-03-10,Oklahoma City Thunder,Memphis Grizzlies,OKC,MEM,Paycom Center,124,93
+2024-03-10,Los Angeles Lakers,Minnesota Timberwolves,LAL,MIN,Crypto.com Arena,120,109
+2024-03-11,Detroit Pistons,Charlotte Hornets,DET,CHA,Little Caesars Arena,114,97
+2024-03-11,Cleveland Cavaliers,Phoenix Suns,CLE,PHX,Rocket Mortgage FieldHouse,111,117
+2024-03-11,Chicago Bulls,Dallas Mavericks,CHI,DAL,United Center,92,127
+2024-03-11,San Antonio Spurs,Golden State Warriors,SAS,GSW,Frost Bank Center,102,112
+2024-03-11,Denver Nuggets,Toronto Raptors,DEN,TOR,Ball Arena,125,119
+2024-03-11,Portland Trail Blazers,Boston Celtics,POR,BOS,Moda Center,99,121
+2024-03-12,New York Knicks,Philadelphia 76ers,NYK,PHI,Madison Square Garden,106,79
+2024-03-12,Memphis Grizzlies,Washington Wizards,MEM,WAS,FedExForum,109,97
+2024-03-12,Oklahoma City Thunder,Indiana Pacers,OKC,IND,Paycom Center,111,121
+2024-03-12,San Antonio Spurs,Houston Rockets,SAS,HOU,Frost Bank Center,101,103
+2024-03-12,Utah Jazz,Boston Celtics,UTA,BOS,Delta Center,107,123
+2024-03-12,LA Clippers,Minnesota Timberwolves,LAC,MIN,Crypto.com Arena,100,118
+2024-03-12,Sacramento Kings,Milwaukee Bucks,SAC,MIL,Golden 1 Center,129,94
+2024-03-13,Detroit Pistons,Toronto Raptors,DET,TOR,Little Caesars Arena,113,104
+2024-03-13,Orlando Magic,Brooklyn Nets,ORL,BKN,Kia Center,114,106
+2024-03-13,Indiana Pacers,Chicago Bulls,IND,CHI,Gainbridge Fieldhouse,129,132
+2024-03-13,Miami Heat,Denver Nuggets,MIA,DEN,Kaseya Center,88,100
+2024-03-13,Memphis Grizzlies,Charlotte Hornets,MEM,CHA,FedExForum,98,110
+2024-03-13,New Orleans Pelicans,Cleveland Cavaliers,NOP,CLE,Smoothie King Center,95,116
+2024-03-13,Dallas Mavericks,Golden State Warriors,DAL,GSW,American Airlines Center,109,99
+2024-03-13,Portland Trail Blazers,Atlanta Hawks,POR,ATL,Moda Center,106,102
+2024-03-13,Sacramento Kings,Los Angeles Lakers,SAC,LAL,Golden 1 Center,120,107
+2024-03-14,Boston Celtics,Phoenix Suns,BOS,PHX,TD Garden,127,112
+2024-03-14,Chicago Bulls,LA Clippers,CHI,LAC,United Center,111,126
+2024-03-14,Houston Rockets,Washington Wizards,HOU,WAS,Toyota Center,135,119
+2024-03-14,Milwaukee Bucks,Philadelphia 76ers,MIL,PHI,Fiserv Forum,114,105
+2024-03-14,Oklahoma City Thunder,Dallas Mavericks,OKC,DAL,Paycom Center,126,119
+2024-03-14,Portland Trail Blazers,New York Knicks,POR,NYK,Moda Center,93,105
+2024-03-15,Charlotte Hornets,Phoenix Suns,CHA,PHX,Spectrum Center,96,107
+2024-03-15,Detroit Pistons,Miami Heat,DET,MIA,Little Caesars Arena,95,108
+2024-03-15,Toronto Raptors,Orlando Magic,TOR,ORL,Scotiabank Arena,103,113
+2024-03-15,New Orleans Pelicans,LA Clippers,NOP,LAC,Smoothie King Center,112,104
+2024-03-15,San Antonio Spurs,Denver Nuggets,SAS,DEN,Moody Center,106,117
+2024-03-15,Utah Jazz,Atlanta Hawks,UTA,ATL,Delta Center,124,122
+2024-03-16,Houston Rockets,Cleveland Cavaliers,HOU,CLE,Toyota Center,117,103
+2024-03-16,Indiana Pacers,Brooklyn Nets,IND,BKN,Gainbridge Fieldhouse,121,100
+2024-03-16,Philadelphia 76ers,Charlotte Hornets,PHI,CHA,Wells Fargo Center,109,98
+2024-03-16,New Orleans Pelicans,Portland Trail Blazers,NOP,POR,Smoothie King Center,126,107
+2024-03-16,Chicago Bulls,Washington Wizards,CHI,WAS,United Center,127,98
+2024-03-16,Memphis Grizzlies,Oklahoma City Thunder,MEM,OKC,FedExForum,112,118
+2024-03-16,Los Angeles Lakers,Golden State Warriors,LAL,GSW,Crypto.com Arena,121,128
+2024-03-16,Utah Jazz,Minnesota Timberwolves,UTA,MIN,Delta Center,100,119
+2024-03-16,Sacramento Kings,New York Knicks,SAC,NYK,Golden 1 Center,91,98
+2024-03-17,Milwaukee Bucks,Phoenix Suns,MIL,PHX,Fiserv Forum,140,129
+2024-03-17,Detroit Pistons,Miami Heat,DET,MIA,Little Caesars Arena,101,104
+2024-03-17,Dallas Mavericks,Denver Nuggets,DAL,DEN,American Airlines Center,107,105
+2024-03-17,Orlando Magic,Toronto Raptors,ORL,TOR,Kia Center,111,96
+2024-03-17,Washington Wizards,Boston Celtics,WAS,BOS,Capital One Arena,104,130
+2024-03-17,San Antonio Spurs,Brooklyn Nets,SAS,BKN,Moody Center,122,115
+2024-03-17,LA Clippers,Atlanta Hawks,LAC,ATL,Crypto.com Arena,93,110
+2024-03-18,Indiana Pacers,Cleveland Cavaliers,IND,CLE,Gainbridge Fieldhouse,103,108
+2024-03-18,Boston Celtics,Detroit Pistons,BOS,DET,TD Garden,119,94
+2024-03-18,Philadelphia 76ers,Miami Heat,PHI,MIA,Wells Fargo Center,98,91
+2024-03-18,Chicago Bulls,Portland Trail Blazers,CHI,POR,United Center,110,107
+2024-03-18,Utah Jazz,Minnesota Timberwolves,UTA,MIN,Delta Center,104,114
+2024-03-18,Golden State Warriors,New York Knicks,GSW,NYK,Chase Center,112,119
+2024-03-18,Sacramento Kings,Memphis Grizzlies,SAC,MEM,Golden 1 Center,121,111
+2024-03-18,Los Angeles Lakers,Atlanta Hawks,LAL,ATL,Crypto.com Arena,136,105
+2024-03-19,Orlando Magic,Charlotte Hornets,ORL,CHA,Kia Center,112,92
+2024-03-19,Washington Wizards,Houston Rockets,WAS,HOU,Capital One Arena,114,137
+2024-03-19,Brooklyn Nets,New Orleans Pelicans,BKN,NOP,Barclays Center,91,104
+2024-03-19,San Antonio Spurs,Dallas Mavericks,SAS,DAL,Frost Bank Center,107,113
+2024-03-19,Minnesota Timberwolves,Denver Nuggets,MIN,DEN,Target Center,112,115
+2024-03-20,Cleveland Cavaliers,Miami Heat,CLE,MIA,Rocket Mortgage FieldHouse,104,107
+2024-03-20,Detroit Pistons,Indiana Pacers,DET,IND,Little Caesars Arena,103,122
+2024-03-20,Boston Celtics,Milwaukee Bucks,BOS,MIL,TD Garden,122,119
+2024-03-20,Toronto Raptors,Sacramento Kings,TOR,SAC,Scotiabank Arena,89,123
+2024-03-20,Oklahoma City Thunder,Utah Jazz,OKC,UTA,Paycom Center,119,107
+2024-03-20,Golden State Warriors,Memphis Grizzlies,GSW,MEM,Chase Center,137,116
+2024-03-20,Phoenix Suns,Philadelphia 76ers,PHX,PHI,Footprint Center,115,102
+2024-03-20,Portland Trail Blazers,LA Clippers,POR,LAC,Moda Center,103,116
+2024-03-21,Orlando Magic,New Orleans Pelicans,ORL,NOP,Kia Center,121,106
+2024-03-21,Washington Wizards,Sacramento Kings,WAS,SAC,Capital One Arena,109,102
+2024-03-21,Houston Rockets,Chicago Bulls,HOU,CHI,Toyota Center,127,117
+2024-03-21,Milwaukee Bucks,Brooklyn Nets,MIL,BKN,Fiserv Forum,115,108
+2024-03-21,Dallas Mavericks,Utah Jazz,DAL,UTA,American Airlines Center,113,97
+2024-03-21,Denver Nuggets,New York Knicks,DEN,NYK,Ball Arena,113,100
+2024-03-21,Phoenix Suns,Atlanta Hawks,PHX,ATL,Footprint Center,128,115
+2024-03-22,Detroit Pistons,Boston Celtics,DET,BOS,Little Caesars Arena,102,129
+2024-03-22,Toronto Raptors,Oklahoma City Thunder,TOR,OKC,Scotiabank Arena,103,123
+2024-03-22,Miami Heat,New Orleans Pelicans,MIA,NOP,Kaseya Center,88,111
+2024-03-22,Minnesota Timberwolves,Cleveland Cavaliers,MIN,CLE,Target Center,104,91
+2024-03-22,San Antonio Spurs,Memphis Grizzlies,SAS,MEM,Frost Bank Center,97,99
+2024-03-22,Golden State Warriors,Indiana Pacers,GSW,IND,Chase Center,111,123
+2024-03-22,Portland Trail Blazers,LA Clippers,POR,LAC,Moda Center,117,125
+2024-03-22,Los Angeles Lakers,Philadelphia 76ers,LAL,PHI,Crypto.com Arena,101,94
+2024-03-23,New York Knicks,Brooklyn Nets,NYK,BKN,Madison Square Garden,105,93
+2024-03-23,Orlando Magic,Sacramento Kings,ORL,SAC,Kia Center,107,109
+2024-03-23,Atlanta Hawks,Charlotte Hornets,ATL,CHA,State Farm Arena,132,91
+2024-03-23,Washington Wizards,Toronto Raptors,WAS,TOR,Capital One Arena,112,109
+2024-03-23,Chicago Bulls,Boston Celtics,CHI,BOS,United Center,113,124
+2024-03-23,Houston Rockets,Utah Jazz,HOU,UTA,Toyota Center,147,119
+2024-03-23,San Antonio Spurs,Phoenix Suns,SAS,PHX,Frost Bank Center,106,131
+2024-03-23,Portland Trail Blazers,Denver Nuggets,POR,DEN,Moda Center,111,114
+2024-03-24,Detroit Pistons,New Orleans Pelicans,DET,NOP,Little Caesars Arena,101,114
+2024-03-24,LA Clippers,Philadelphia 76ers,LAC,PHI,Crypto.com Arena,107,121
+2024-03-24,Miami Heat,Cleveland Cavaliers,MIA,CLE,Kaseya Center,121,84
+2024-03-24,Milwaukee Bucks,Oklahoma City Thunder,MIL,OKC,Fiserv Forum,118,93
+2024-03-24,Minnesota Timberwolves,Golden State Warriors,MIN,GSW,Target Center,114,110
+2024-03-24,Los Angeles Lakers,Indiana Pacers,LAL,IND,Crypto.com Arena,150,145
+2024-03-25,Cleveland Cavaliers,Charlotte Hornets,CLE,CHA,Rocket Mortgage FieldHouse,115,92
+2024-03-25,Atlanta Hawks,Boston Celtics,ATL,BOS,State Farm Arena,120,118
+2024-03-25,New York Knicks,Detroit Pistons,NYK,DET,Madison Square Garden,124,99
+2024-03-25,Toronto Raptors,Brooklyn Nets,TOR,BKN,Scotiabank Arena,88,96
+2024-03-25,Chicago Bulls,Washington Wizards,CHI,WAS,United Center,105,107
+2024-03-25,Houston Rockets,Portland Trail Blazers,HOU,POR,Toyota Center,110,92
+2024-03-25,San Antonio Spurs,Phoenix Suns,SAS,PHX,Frost Bank Center,104,102
+2024-03-25,Denver Nuggets,Memphis Grizzlies,DEN,MEM,Ball Arena,128,103
+2024-03-25,Utah Jazz,Dallas Mavericks,UTA,DAL,Delta Center,105,115
+2024-03-25,Sacramento Kings,Philadelphia 76ers,SAC,PHI,Golden 1 Center,108,96
+2024-03-25,LA Clippers,Indiana Pacers,LAC,IND,Crypto.com Arena,116,133
+2024-03-26,Miami Heat,Golden State Warriors,MIA,GSW,Kaseya Center,92,113
+2024-03-26,Milwaukee Bucks,Los Angeles Lakers,MIL,LAL,Fiserv Forum,124,128
+2024-03-26,New Orleans Pelicans,Oklahoma City Thunder,NOP,OKC,Smoothie King Center,112,119
+2024-03-26,Sacramento Kings,Dallas Mavericks,SAC,DAL,Golden 1 Center,96,132
+2024-03-27,Charlotte Hornets,Cleveland Cavaliers,CHA,CLE,Spectrum Center,118,111
+2024-03-27,Orlando Magic,Golden State Warriors,ORL,GSW,Kia Center,93,101
+2024-03-27,Washington Wizards,Brooklyn Nets,WAS,BKN,Capital One Arena,119,122
+2024-03-27,Atlanta Hawks,Portland Trail Blazers,ATL,POR,State Farm Arena,120,106
+2024-03-27,Philadelphia 76ers,LA Clippers,PHI,LAC,Wells Fargo Center,107,108
+2024-03-27,Toronto Raptors,New York Knicks,TOR,NYK,Scotiabank Arena,101,145
+2024-03-27,Chicago Bulls,Indiana Pacers,CHI,IND,United Center,125,99
+2024-03-27,Memphis Grizzlies,Los Angeles Lakers,MEM,LAL,FedExForum,124,136
+2024-03-27,Minnesota Timberwolves,Detroit Pistons,MIN,DET,Target Center,106,91
+2024-03-27,Oklahoma City Thunder,Houston Rockets,OKC,HOU,Paycom Center,126,132
+2024-03-27,Utah Jazz,San Antonio Spurs,UTA,SAS,Delta Center,111,118
+2024-03-27,Denver Nuggets,Phoenix Suns,DEN,PHX,Ball Arena,97,104
+2024-03-28,Atlanta Hawks,Boston Celtics,ATL,BOS,State Farm Arena,123,122
+2024-03-28,New Orleans Pelicans,Milwaukee Bucks,NOP,MIL,Smoothie King Center,107,100
+2024-03-29,Charlotte Hornets,Golden State Warriors,CHA,GSW,Spectrum Center,97,115
+2024-03-29,Indiana Pacers,Los Angeles Lakers,IND,LAL,Gainbridge Fieldhouse,109,90
+2024-03-29,Orlando Magic,LA Clippers,ORL,LAC,Kia Center,97,100
+2024-03-29,Washington Wizards,Detroit Pistons,WAS,DET,Capital One Arena,87,96
+2024-03-29,Brooklyn Nets,Chicago Bulls,BKN,CHI,Barclays Center,125,108
+2024-03-29,Cleveland Cavaliers,Philadelphia 76ers,CLE,PHI,Rocket Mortgage FieldHouse,117,114
+2024-03-29,Miami Heat,Portland Trail Blazers,MIA,POR,Kaseya Center,142,82
+2024-03-29,Oklahoma City Thunder,Phoenix Suns,OKC,PHX,Paycom Center,128,103
+2024-03-29,San Antonio Spurs,New York Knicks,SAS,NYK,Frost Bank Center,130,126
+2024-03-29,Denver Nuggets,Minnesota Timberwolves,DEN,MIN,Ball Arena,98,111
+2024-03-29,Utah Jazz,Houston Rockets,UTA,HOU,Delta Center,100,101
+2024-03-29,Sacramento Kings,Dallas Mavericks,SAC,DAL,Golden 1 Center,103,107
+2024-03-30,New Orleans Pelicans,Boston Celtics,NOP,BOS,Smoothie King Center,92,104
+2024-03-30,Orlando Magic,Memphis Grizzlies,ORL,MEM,Kia Center,118,88
+2024-03-30,Atlanta Hawks,Milwaukee Bucks,ATL,MIL,State Farm Arena,113,122
+2024-03-31,Denver Nuggets,Cleveland Cavaliers,DEN,CLE,Ball Arena,130,101
+2024-03-31,Brooklyn Nets,Los Angeles Lakers,BKN,LAL,Barclays Center,104,116
+2024-03-31,Charlotte Hornets,LA Clippers,CHA,LAC,Spectrum Center,118,130
+2024-03-31,Toronto Raptors,Philadelphia 76ers,TOR,PHI,Scotiabank Arena,120,135
+2024-03-31,Washington Wizards,Miami Heat,WAS,MIA,Capital One Arena,107,119
+2024-03-31,New York Knicks,Oklahoma City Thunder,NYK,OKC,Madison Square Garden,112,113
+2024-03-31,Houston Rockets,Dallas Mavericks,HOU,DAL,Toyota Center,107,125
+2024-03-31,Minnesota Timberwolves,Chicago Bulls,MIN,CHI,Target Center,101,109
+2024-03-31,San Antonio Spurs,Golden State Warriors,SAS,GSW,Frost Bank Center,113,117
+2024-03-31,Sacramento Kings,Utah Jazz,SAC,UTA,Golden 1 Center,127,106
+2024-04-01,Charlotte Hornets,Boston Celtics,CHA,BOS,Spectrum Center,104,118
+2024-04-01,Detroit Pistons,Memphis Grizzlies,DET,MEM,Little Caesars Arena,108,110
+2024-04-01,Indiana Pacers,Brooklyn Nets,IND,BKN,Gainbridge Fieldhouse,133,111
+2024-04-01,Orlando Magic,Portland Trail Blazers,ORL,POR,Kia Center,104,103
+2024-04-01,Chicago Bulls,Atlanta Hawks,CHI,ATL,United Center,101,113
+2024-04-01,New Orleans Pelicans,Phoenix Suns,NOP,PHX,Smoothie King Center,111,124
+2024-04-02,Toronto Raptors,Los Angeles Lakers,TOR,LAL,Scotiabank Arena,111,128
+2024-04-02,Washington Wizards,Milwaukee Bucks,WAS,MIL,Capital One Arena,117,113
+2024-04-02,Philadelphia 76ers,Oklahoma City Thunder,PHI,OKC,Wells Fargo Center,109,105
+2024-04-02,Miami Heat,New York Knicks,MIA,NYK,Kaseya Center,109,99
+2024-04-02,Minnesota Timberwolves,Houston Rockets,MIN,HOU,Target Center,113,106
+2024-04-02,Denver Nuggets,San Antonio Spurs,DEN,SAS,Ball Arena,110,105
+2024-04-02,Utah Jazz,Cleveland Cavaliers,UTA,CLE,Delta Center,113,129
+2024-04-02,Golden State Warriors,Dallas Mavericks,GSW,DAL,Chase Center,104,100
+2024-04-02,Sacramento Kings,LA Clippers,SAC,LAC,Golden 1 Center,109,95
+2024-04-03,Charlotte Hornets,Portland Trail Blazers,CHA,POR,Spectrum Center,86,89
+2024-04-03,Washington Wizards,Los Angeles Lakers,WAS,LAL,Capital One Arena,120,125
+2024-04-03,Atlanta Hawks,Detroit Pistons,ATL,DET,State Farm Arena,121,113
+2024-04-03,Boston Celtics,Oklahoma City Thunder,BOS,OKC,TD Garden,135,100
+2024-04-03,Brooklyn Nets,Indiana Pacers,BKN,IND,Barclays Center,115,111
+2024-04-03,Milwaukee Bucks,Memphis Grizzlies,MIL,MEM,Fiserv Forum,101,111
+2024-04-03,Minnesota Timberwolves,Toronto Raptors,MIN,TOR,Target Center,133,85
+2024-04-03,New Orleans Pelicans,Orlando Magic,NOP,ORL,Smoothie King Center,108,117
+2024-04-03,Phoenix Suns,Cleveland Cavaliers,PHX,CLE,Footprint Center,122,101
+2024-04-04,Miami Heat,Philadelphia 76ers,MIA,PHI,Kaseya Center,105,109
+2024-04-04,New York Knicks,Sacramento Kings,NYK,SAC,Madison Square Garden,120,109
+2024-04-04,Dallas Mavericks,Atlanta Hawks,DAL,ATL,American Airlines Center,109,95
+2024-04-04,Houston Rockets,Golden State Warriors,HOU,GSW,Toyota Center,110,133
+2024-04-04,LA Clippers,Denver Nuggets,LAC,DEN,Crypto.com Arena,102,100
+2024-04-05,Charlotte Hornets,Orlando Magic,CHA,ORL,Spectrum Center,124,115
+2024-04-05,Indiana Pacers,Oklahoma City Thunder,IND,OKC,Gainbridge Fieldhouse,126,112
+2024-04-05,Washington Wizards,Portland Trail Blazers,WAS,POR,Capital One Arena,102,108
+2024-04-05,Boston Celtics,Sacramento Kings,BOS,SAC,TD Garden,101,100
+2024-04-05,Chicago Bulls,New York Knicks,CHI,NYK,United Center,108,100
+2024-04-05,Houston Rockets,Miami Heat,HOU,MIA,Toyota Center,104,119
+2024-04-05,Memphis Grizzlies,Detroit Pistons,MEM,DET,FedExForum,108,90
+2024-04-05,Milwaukee Bucks,Toronto Raptors,MIL,TOR,Fiserv Forum,111,117
+2024-04-05,New Orleans Pelicans,San Antonio Spurs,NOP,SAS,Smoothie King Center,109,111
+2024-04-05,Dallas Mavericks,Golden State Warriors,DAL,GSW,American Airlines Center,108,106
+2024-04-05,Phoenix Suns,Minnesota Timberwolves,PHX,MIN,Footprint Center,97,87
+2024-04-05,LA Clippers,Utah Jazz,LAC,UTA,Crypto.com Arena,131,102
+2024-04-06,Los Angeles Lakers,Cleveland Cavaliers,LAL,CLE,Crypto.com Arena,116,97
+2024-04-06,Brooklyn Nets,Detroit Pistons,BKN,DET,Barclays Center,113,103
+2024-04-06,Memphis Grizzlies,Philadelphia 76ers,MEM,PHI,FedExForum,96,116
+2024-04-06,Denver Nuggets,Atlanta Hawks,DEN,ATL,Ball Arena,142,110
+2024-04-07,Dallas Mavericks,Houston Rockets,DAL,HOU,American Airlines Center,147,136
+2024-04-07,LA Clippers,Cleveland Cavaliers,LAC,CLE,Crypto.com Arena,120,118
+2024-04-07,Indiana Pacers,Miami Heat,IND,MIA,Gainbridge Fieldhouse,117,115
+2024-04-07,Boston Celtics,Portland Trail Blazers,BOS,POR,TD Garden,124,107
+2024-04-07,Charlotte Hornets,Oklahoma City Thunder,CHA,OKC,Spectrum Center,118,121
+2024-04-07,Orlando Magic,Chicago Bulls,ORL,CHI,Kia Center,113,98
+2024-04-07,Toronto Raptors,Washington Wizards,TOR,WAS,Scotiabank Arena,130,122
+2024-04-07,Phoenix Suns,New Orleans Pelicans,PHX,NOP,Footprint Center,105,113
+2024-04-07,Milwaukee Bucks,New York Knicks,MIL,NYK,Fiserv Forum,109,122
+2024-04-07,San Antonio Spurs,Philadelphia 76ers,SAS,PHI,Frost Bank Center,126,133
+2024-04-07,Brooklyn Nets,Sacramento Kings,BKN,SAC,Barclays Center,77,107
+2024-04-07,Golden State Warriors,Utah Jazz,GSW,UTA,Chase Center,118,110
+2024-04-07,Los Angeles Lakers,Minnesota Timberwolves,LAL,MIN,Crypto.com Arena,117,127
+2024-04-09,Charlotte Hornets,Dallas Mavericks,CHA,DAL,Spectrum Center,104,130
+2024-04-09,Philadelphia 76ers,Detroit Pistons,PHI,DET,Wells Fargo Center,120,102
+2024-04-09,Toronto Raptors,Indiana Pacers,TOR,IND,Scotiabank Arena,123,140
+2024-04-09,Atlanta Hawks,Miami Heat,ATL,MIA,State Farm Arena,111,117
+2024-04-09,Milwaukee Bucks,Boston Celtics,MIL,BOS,Fiserv Forum,104,91
+2024-04-09,Chicago Bulls,New York Knicks,CHI,NYK,United Center,117,128
+2024-04-09,Houston Rockets,Orlando Magic,HOU,ORL,Toyota Center,118,106
+2024-04-09,Memphis Grizzlies,San Antonio Spurs,MEM,SAS,FedExForum,87,102
+2024-04-09,Minnesota Timberwolves,Washington Wizards,MIN,WAS,Target Center,130,121
+2024-04-09,Oklahoma City Thunder,Sacramento Kings,OKC,SAC,Paycom Center,112,105
+2024-04-09,Utah Jazz,Denver Nuggets,UTA,DEN,Delta Center,95,111
+2024-04-09,Los Angeles Lakers,Golden State Warriors,LAL,GSW,Crypto.com Arena,120,134
+2024-04-09,Phoenix Suns,LA Clippers,PHX,LAC,Footprint Center,92,105
+2024-04-09,Portland Trail Blazers,New Orleans Pelicans,POR,NOP,Moda Center,100,110
+2024-04-10,Cleveland Cavaliers,Memphis Grizzlies,CLE,MEM,Rocket Mortgage FieldHouse,110,98
+2024-04-10,Atlanta Hawks,Charlotte Hornets,ATL,CHA,State Farm Arena,114,115
+2024-04-10,Brooklyn Nets,Toronto Raptors,BKN,TOR,Barclays Center,106,102
+2024-04-10,Miami Heat,Dallas Mavericks,MIA,DAL,Kaseya Center,92,111
+2024-04-10,Milwaukee Bucks,Orlando Magic,MIL,ORL,Fiserv Forum,117,99
+2024-04-10,Oklahoma City Thunder,San Antonio Spurs,OKC,SAS,Paycom Center,127,89
+2024-04-10,Denver Nuggets,Minnesota Timberwolves,DEN,MIN,Ball Arena,116,107
+2024-04-10,LA Clippers,Phoenix Suns,LAC,PHX,Crypto.com Arena,108,124
+2024-04-11,Detroit Pistons,Chicago Bulls,DET,CHI,Little Caesars Arena,105,127
+2024-04-11,Boston Celtics,New York Knicks,BOS,NYK,TD Garden,109,118
+2024-04-11,Utah Jazz,Houston Rockets,UTA,HOU,Delta Center,124,121
+2024-04-11,Portland Trail Blazers,Golden State Warriors,POR,GSW,Moda Center,92,100
+2024-04-11,Sacramento Kings,New Orleans Pelicans,SAC,NOP,Golden 1 Center,123,135
+2024-04-12,Philadelphia 76ers,Orlando Magic,PHI,ORL,Wells Fargo Center,125,113
+2024-04-12,Washington Wizards,Chicago Bulls,WAS,CHI,Capital One Arena,127,129
+2024-04-12,Boston Celtics,Charlotte Hornets,BOS,CHA,TD Garden,131,98
+2024-04-12,Cleveland Cavaliers,Indiana Pacers,CLE,IND,Rocket Mortgage FieldHouse,129,120
+2024-04-12,New York Knicks,Brooklyn Nets,NYK,BKN,Madison Square Garden,111,107
+2024-04-12,Miami Heat,Toronto Raptors,MIA,TOR,Kaseya Center,125,103
+2024-04-12,Memphis Grizzlies,Los Angeles Lakers,MEM,LAL,FedExForum,120,123
+2024-04-12,Minnesota Timberwolves,Atlanta Hawks,MIN,ATL,Target Center,109,106
+2024-04-12,Oklahoma City Thunder,Milwaukee Bucks,OKC,MIL,Paycom Center,125,107
+2024-04-12,San Antonio Spurs,Denver Nuggets,SAS,DEN,Frost Bank Center,121,120
+2024-04-12,Dallas Mavericks,Detroit Pistons,DAL,DET,American Airlines Center,89,107
+2024-04-12,Golden State Warriors,New Orleans Pelicans,GSW,NOP,Chase Center,109,114
+2024-04-12,Portland Trail Blazers,Houston Rockets,POR,HOU,Moda Center,107,116
+2024-04-12,LA Clippers,Utah Jazz,LAC,UTA,Crypto.com Arena,109,110
+2024-04-12,Sacramento Kings,Phoenix Suns,SAC,PHX,Golden 1 Center,107,108
+2024-04-14,Boston Celtics,Washington Wizards,BOS,WAS,TD Garden,132,122
+2024-04-14,Cleveland Cavaliers,Charlotte Hornets,CLE,CHA,Rocket Mortgage FieldHouse,110,120
+2024-04-14,Indiana Pacers,Atlanta Hawks,IND,ATL,Gainbridge Fieldhouse,157,115
+2024-04-14,Miami Heat,Toronto Raptors,MIA,TOR,Kaseya Center,118,103
+2024-04-14,New York Knicks,Chicago Bulls,NYK,CHI,Madison Square Garden,120,119
+2024-04-14,Orlando Magic,Milwaukee Bucks,ORL,MIL,Kia Center,113,88
+2024-04-14,Philadelphia 76ers,Brooklyn Nets,PHI,BKN,Wells Fargo Center,107,86
+2024-04-14,Memphis Grizzlies,Denver Nuggets,MEM,DEN,FedExForum,111,126
+2024-04-14,Minnesota Timberwolves,Phoenix Suns,MIN,PHX,Target Center,106,125
+2024-04-14,New Orleans Pelicans,Los Angeles Lakers,NOP,LAL,Smoothie King Center,108,124
+2024-04-14,Oklahoma City Thunder,Dallas Mavericks,OKC,DAL,Paycom Center,135,86
+2024-04-14,San Antonio Spurs,Detroit Pistons,SAS,DET,Frost Bank Center,123,95
+2024-04-14,Golden State Warriors,Utah Jazz,GSW,UTA,Chase Center,123,116
+2024-04-14,LA Clippers,Houston Rockets,LAC,HOU,Crypto.com Arena,105,116
+2024-04-14,Sacramento Kings,Portland Trail Blazers,SAC,POR,Golden 1 Center,121,82
+2024-04-16,New Orleans Pelicans,Los Angeles Lakers,NOP,LAL,Smoothie King Center,106,110
+2024-04-16,Sacramento Kings,Golden State Warriors,SAC,GSW,Golden 1 Center,118,94
+2024-04-17,Philadelphia 76ers,Miami Heat,PHI,MIA,Wells Fargo Center,105,104
+2024-04-17,Chicago Bulls,Atlanta Hawks,CHI,ATL,United Center,131,116
+2024-04-19,Miami Heat,Chicago Bulls,MIA,CHI,Kaseya Center,112,91
+2024-04-19,New Orleans Pelicans,Sacramento Kings,NOP,SAC,Smoothie King Center,105,98
+2024-04-20,Cleveland Cavaliers,Orlando Magic,CLE,ORL,Rocket Mortgage FieldHouse,97,83
+2024-04-20,Minnesota Timberwolves,Phoenix Suns,MIN,PHX,Target Center,120,95
+2024-04-20,New York Knicks,Philadelphia 76ers,NYK,PHI,Madison Square Garden,111,104
+2024-04-20,Denver Nuggets,Los Angeles Lakers,DEN,LAL,Ball Arena,114,103
+2024-04-21,Boston Celtics,Miami Heat,BOS,MIA,TD Garden,114,94
+2024-04-21,LA Clippers,Dallas Mavericks,LAC,DAL,Crypto.com Arena,109,97
+2024-04-21,Milwaukee Bucks,Indiana Pacers,MIL,IND,Fiserv Forum,109,94
+2024-04-21,Oklahoma City Thunder,New Orleans Pelicans,OKC,NOP,Paycom Center,94,92
+2024-04-22,Cleveland Cavaliers,Orlando Magic,CLE,ORL,Rocket Mortgage FieldHouse,96,86
+2024-04-22,New York Knicks,Philadelphia 76ers,NYK,PHI,Madison Square Garden,104,101
+2024-04-22,Denver Nuggets,Los Angeles Lakers,DEN,LAL,Ball Arena,101,99
+2024-04-23,Minnesota Timberwolves,Phoenix Suns,MIN,PHX,Target Center,105,93
+2024-04-23,Milwaukee Bucks,Indiana Pacers,MIL,IND,Fiserv Forum,108,125
+2024-04-23,LA Clippers,Dallas Mavericks,LAC,DAL,Crypto.com Arena,93,96
+2024-04-24,Boston Celtics,Miami Heat,BOS,MIA,TD Garden,101,111
+2024-04-24,Oklahoma City Thunder,New Orleans Pelicans,OKC,NOP,Paycom Center,124,92
+2024-04-25,Orlando Magic,Cleveland Cavaliers,ORL,CLE,Kia Center,121,83
+2024-04-25,Philadelphia 76ers,New York Knicks,PHI,NYK,Wells Fargo Center,125,114
+2024-04-25,Los Angeles Lakers,Denver Nuggets,LAL,DEN,Crypto.com Arena,105,112
+2024-04-26,Indiana Pacers,Milwaukee Bucks,IND,MIL,Gainbridge Fieldhouse,121,118
+2024-04-26,Dallas Mavericks,LA Clippers,DAL,LAC,American Airlines Center,101,90
+2024-04-26,Phoenix Suns,Minnesota Timberwolves,PHX,MIN,Footprint Center,109,126
+2024-04-27,Orlando Magic,Cleveland Cavaliers,ORL,CLE,Kia Center,112,89
+2024-04-27,New Orleans Pelicans,Oklahoma City Thunder,NOP,OKC,Smoothie King Center,85,106
+2024-04-27,Miami Heat,Boston Celtics,MIA,BOS,Kaseya Center,84,104
+2024-04-27,Los Angeles Lakers,Denver Nuggets,LAL,DEN,Crypto.com Arena,119,108
+2024-04-28,Philadelphia 76ers,New York Knicks,PHI,NYK,Wells Fargo Center,92,97
+2024-04-28,Dallas Mavericks,LA Clippers,DAL,LAC,American Airlines Center,111,116
+2024-04-28,Indiana Pacers,Milwaukee Bucks,IND,MIL,Gainbridge Fieldhouse,126,113
+2024-04-28,Phoenix Suns,Minnesota Timberwolves,PHX,MIN,Footprint Center,116,122
+2024-04-29,Miami Heat,Boston Celtics,MIA,BOS,Kaseya Center,88,102
+2024-04-29,New Orleans Pelicans,Oklahoma City Thunder,NOP,OKC,Smoothie King Center,89,97
+2024-04-29,Denver Nuggets,Los Angeles Lakers,DEN,LAL,Ball Arena,108,106
+2024-04-30,New York Knicks,Philadelphia 76ers,NYK,PHI,Madison Square Garden,106,112
+2024-04-30,Cleveland Cavaliers,Orlando Magic,CLE,ORL,Rocket Mortgage FieldHouse,104,103
+2024-04-30,Milwaukee Bucks,Indiana Pacers,MIL,IND,Fiserv Forum,115,92
+2024-05-01,Boston Celtics,Miami Heat,BOS,MIA,TD Garden,118,84
+2024-05-01,LA Clippers,Dallas Mavericks,LAC,DAL,Crypto.com Arena,93,123
+2024-05-02,Indiana Pacers,Milwaukee Bucks,IND,MIL,Gainbridge Fieldhouse,120,98
+2024-05-02,Philadelphia 76ers,New York Knicks,PHI,NYK,Wells Fargo Center,115,118
+2024-05-03,Orlando Magic,Cleveland Cavaliers,ORL,CLE,Kia Center,103,96
+2024-05-03,Dallas Mavericks,LA Clippers,DAL,LAC,American Airlines Center,114,101
+2024-05-04,Denver Nuggets,Minnesota Timberwolves,DEN,MIN,Ball Arena,99,106
+2024-05-05,Cleveland Cavaliers,Orlando Magic,CLE,ORL,Rocket Mortgage FieldHouse,106,94
+2024-05-06,New York Knicks,Indiana Pacers,NYK,IND,Madison Square Garden,121,117
+2024-05-06,Denver Nuggets,Minnesota Timberwolves,DEN,MIN,Ball Arena,80,106
+2024-05-07,Boston Celtics,Cleveland Cavaliers,BOS,CLE,TD Garden,120,95
+2024-05-07,Oklahoma City Thunder,Dallas Mavericks,OKC,DAL,Paycom Center,117,95
+2024-05-08,New York Knicks,Indiana Pacers,NYK,IND,Madison Square Garden,130,121
+2024-05-09,Boston Celtics,Cleveland Cavaliers,BOS,CLE,TD Garden,94,118
+2024-05-09,Oklahoma City Thunder,Dallas Mavericks,OKC,DAL,Paycom Center,110,119
+2024-05-10,Indiana Pacers,New York Knicks,IND,NYK,Gainbridge Fieldhouse,111,106
+2024-05-10,Minnesota Timberwolves,Denver Nuggets,MIN,DEN,Target Center,90,117
+2024-05-11,Dallas Mavericks,Oklahoma City Thunder,DAL,OKC,American Airlines Center,105,101
+2024-05-11,Cleveland Cavaliers,Boston Celtics,CLE,BOS,Rocket Mortgage FieldHouse,93,106
+2024-05-12,Indiana Pacers,New York Knicks,IND,NYK,Gainbridge Fieldhouse,121,89
+2024-05-12,Minnesota Timberwolves,Denver Nuggets,MIN,DEN,Target Center,107,115
+2024-05-13,Cleveland Cavaliers,Boston Celtics,CLE,BOS,Rocket Mortgage FieldHouse,102,109
+2024-05-13,Dallas Mavericks,Oklahoma City Thunder,DAL,OKC,American Airlines Center,96,100
+2024-05-14,New York Knicks,Indiana Pacers,NYK,IND,Madison Square Garden,121,91
+2024-05-14,Denver Nuggets,Minnesota Timberwolves,DEN,MIN,Ball Arena,112,97
+2024-05-15,Boston Celtics,Cleveland Cavaliers,BOS,CLE,TD Garden,113,98
+2024-05-15,Oklahoma City Thunder,Dallas Mavericks,OKC,DAL,Paycom Center,92,104
+2024-05-16,Minnesota Timberwolves,Denver Nuggets,MIN,DEN,Target Center,115,70
+2024-05-17,Indiana Pacers,New York Knicks,IND,NYK,Gainbridge Fieldhouse,116,103
+2024-05-18,Dallas Mavericks,Oklahoma City Thunder,DAL,OKC,American Airlines Center,117,116
+2024-05-19,New York Knicks,Indiana Pacers,NYK,IND,Madison Square Garden,109,130
+2024-05-19,Denver Nuggets,Minnesota Timberwolves,DEN,MIN,Ball Arena,90,98
+2024-05-21,Boston Celtics,Indiana Pacers,BOS,IND,TD Garden,133,128
+2024-05-22,Minnesota Timberwolves,Dallas Mavericks,MIN,DAL,Target Center,105,108
+2024-05-23,Boston Celtics,Indiana Pacers,BOS,IND,TD Garden,126,110
+2024-05-24,Minnesota Timberwolves,Dallas Mavericks,MIN,DAL,Target Center,108,109
+2024-05-25,Indiana Pacers,Boston Celtics,IND,BOS,Gainbridge Fieldhouse,111,114
+2024-05-26,Dallas Mavericks,Minnesota Timberwolves,DAL,MIN,American Airlines Center,116,107
+2024-05-27,Indiana Pacers,Boston Celtics,IND,BOS,Gainbridge Fieldhouse,102,105
+2024-05-28,Dallas Mavericks,Minnesota Timberwolves,DAL,MIN,American Airlines Center,100,105
+2024-05-30,Minnesota Timberwolves,Dallas Mavericks,MIN,DAL,Target Center,103,124
+2024-06-06,Boston Celtics,Dallas Mavericks,BOS,DAL,TD Garden,107,89
+2024-06-09,Boston Celtics,Dallas Mavericks,BOS,DAL,TD Garden,105,98
+2024-06-12,Dallas Mavericks,Boston Celtics,DAL,BOS,American Airlines Center,99,106
+2024-06-14,Dallas Mavericks,Boston Celtics,DAL,BOS,American Airlines Center,122,84
+2024-06-17,Boston Celtics,Dallas Mavericks,BOS,DAL,TD Garden,106,88
+2023-10-05,Minnesota Timberwolves,Dallas Mavericks,MIN,DAL,Etihad Arena,111,99
+2023-10-07,Dallas Mavericks,Minnesota Timberwolves,DAL,MIN,Etihad Arena,96,104
+2023-10-07,Golden State Warriors,Los Angeles Lakers,GSW,LAL,Chase Center,125,108
+2023-10-08,Milwaukee Bucks,Chicago Bulls,MIL,CHI,Fiserv Forum,105,102
+2023-10-08,Detroit Pistons,Phoenix Suns,DET,PHX,Little Caesars Arena,126,130
+2023-10-08,Boston Celtics,Philadelphia 76ers,BOS,PHI,TD Garden,114,106
+2023-10-08,Memphis Grizzlies,Indiana Pacers,MEM,IND,FedExForum,127,122
+2023-10-08,Toronto Raptors,Sacramento Kings,TOR,SAC,Rogers Arena,112,99
+2023-10-08,LA Clippers,Utah Jazz,LAC,UTA,Stan Sheriff Center,96,101
+2023-10-09,New York Knicks,Boston Celtics,NYK,BOS,Madison Square Garden,114,107
+2023-10-09,Oklahoma City Thunder,San Antonio Spurs,OKC,SAS,Paycom Center,122,121
+2023-10-09,Los Angeles Lakers,Brooklyn Nets,LAL,BKN,T-Mobile Arena,129,126
+2023-10-10,Madrid Baloncesto,Dallas Mavericks,RMD,DAL,WiZink Center,127,123
+2023-10-10,Washington Wizards,Cairns Taipans,WAS,CNS,Capital One Arena,145,82
+2023-10-10,Atlanta Hawks,Cleveland Cavaliers,ATL,CLE,State Farm Arena,108,107
+2023-10-10,Miami Heat,Charlotte Hornets,MIA,CHA,Kaseya Center,113,109
+2023-10-10,Houston Rockets,Indiana Pacers,HOU,IND,Toyota Center,122,103
+2023-10-10,Memphis Grizzlies,Milwaukee Bucks,MEM,MIL,FedExForum,108,102
+2023-10-10,New Orleans Pelicans,Orlando Magic,NOP,ORL,Smoothie King Center,105,122
+2023-10-10,LA Clippers,Utah Jazz,LAC,UTA,Climate Pledge Arena,103,98
+2023-10-10,Phoenix Suns,Denver Nuggets,PHX,DEN,Footprint Center,107,115
+2023-10-10,Portland Trail Blazers,New Zealand Breakers,POR,NZB,Moda Center,106,66
+2023-10-11,Philadelphia 76ers,Boston Celtics,PHI,BOS,Wells Fargo Center,101,112
+2023-10-11,Los Angeles Lakers,Sacramento Kings,LAL,SAC,Honda Center,109,101
+2023-10-12,Washington Wizards,Charlotte Hornets,WAS,CHA,Capital One Arena,98,92
+2023-10-12,Cleveland Cavaliers,Orlando Magic,CLE,ORL,Rocket Mortgage FieldHouse,105,108
+2023-10-12,Oklahoma City Thunder,Detroit Pistons,OKC,DET,Bell Centre,125,128
+2023-10-12,Atlanta Hawks,Memphis Grizzlies,ATL,MEM,State Farm Arena,103,102
+2023-10-12,Brooklyn Nets,Ra'anana Maccabi Ra'anana,BKN,MRA,Barclays Center,135,103
+2023-10-12,Chicago Bulls,Denver Nuggets,CHI,DEN,United Center,133,124
+2023-10-12,New Orleans Pelicans,Houston Rockets,NOP,HOU,Legacy Arena at the BJCC,87,120
+2023-10-12,Portland Trail Blazers,Phoenix Suns,POR,PHX,Moda Center,111,122
+2023-10-13,San Antonio Spurs,Miami Heat,SAS,MIA,Frost Bank Center,120,104
+2023-10-13,Los Angeles Lakers,Golden State Warriors,LAL,GSW,Crypto.com Arena,125,129
+2023-10-14,Atlanta Hawks,New Orleans Pelicans,ATL,NOP,Gateway Center Arena,110,105
+2023-10-14,New York Knicks,Minnesota Timberwolves,NYK,MIN,Madison Square Garden,112,121
+2023-10-14,Utah Jazz,Portland Trail Blazers,UTA,POR,Delta Center,138,133
+2023-10-15,Charlotte Hornets,Oklahoma City Thunder,CHA,OKC,Spectrum Center,117,115
+2023-10-15,Miami Heat,Memphis Grizzlies,MIA,MEM,Kaseya Center,132,124
+2023-10-15,Toronto Raptors,Cairns Taipans,TOR,CNS,Scotiabank Arena,134,93
+2023-10-15,Los Angeles Lakers,Milwaukee Bucks,LAL,MIL,Crypto.com Arena,97,108
+2023-10-15,Denver Nuggets,Chicago Bulls,DEN,CHI,Ball Arena,116,102
+2023-10-15,Sacramento Kings,Golden State Warriors,SAC,GSW,Golden 1 Center,115,121
+2023-10-16,Indiana Pacers,Atlanta Hawks,IND,ATL,Gainbridge Fieldhouse,116,112
+2023-10-16,Cleveland Cavaliers,Ra'anana Maccabi Ra'anana,CLE,MRA,Rocket Mortgage FieldHouse,120,89
+2023-10-16,Brooklyn Nets,Philadelphia 76ers,BKN,PHI,Barclays Center,119,127
+2023-10-16,San Antonio Spurs,Houston Rockets,SAS,HOU,Frost Bank Center,89,99
+2023-10-16,Utah Jazz,New Zealand Breakers,UTA,NZB,Delta Center,114,94
+2023-10-16,Phoenix Suns,Portland Trail Blazers,PHX,POR,Footprint Center,117,106
+2023-10-17,Orlando Magic,New Orleans Pelicans,ORL,NOP,Amway Center,92,104
+2023-10-17,Boston Celtics,New York Knicks,BOS,NYK,TD Garden,123,110
+2023-10-17,Chicago Bulls,Toronto Raptors,CHI,TOR,United Center,102,106
+2023-10-17,Oklahoma City Thunder,Milwaukee Bucks,OKC,MIL,Paycom Center,124,101
+2023-10-17,Minnesota Timberwolves,Ra'anana Maccabi Ra'anana,MIN,MRA,Target Center,138,111
+2023-10-17,LA Clippers,Denver Nuggets,LAC,DEN,Crypto.com Arena,116,103
+2023-10-18,Miami Heat,Brooklyn Nets,MIA,BKN,Kaseya Center,104,107
+2023-10-18,New York Knicks,Washington Wizards,NYK,WAS,Madison Square Garden,106,131
+2023-10-18,San Antonio Spurs,Houston Rockets,SAS,HOU,Frost Bank Center,117,103
+2023-10-18,Golden State Warriors,Sacramento Kings,GSW,SAC,Chase Center,116,115
+2023-10-19,Charlotte Hornets,Boston Celtics,CHA,BOS,Spectrum Center,99,127
+2023-10-19,Chicago Bulls,Minnesota Timberwolves,CHI,MIN,United Center,105,114
+2023-10-19,Oklahoma City Thunder,Detroit Pistons,OKC,DET,BOK Center,116,118
+2023-10-19,Los Angeles Lakers,Phoenix Suns,LAL,PHX,Acrisure Arena,100,123
+2023-10-19,LA Clippers,Denver Nuggets,LAC,DEN,Crypto.com Arena,90,103
+2023-10-19,Sacramento Kings,Utah Jazz,SAC,UTA,Golden 1 Center,116,113
+2023-10-20,Indiana Pacers,Cleveland Cavaliers,IND,CLE,Gainbridge Fieldhouse,109,104
+2023-10-20,Orlando Magic,Flamengo Flamengo,ORL,FLA,Amway Center,109,76
+2023-10-20,Philadelphia 76ers,Atlanta Hawks,PHI,ATL,Wells Fargo Center,120,106
+2023-10-20,Toronto Raptors,Washington Wizards,TOR,WAS,Scotiabank Arena,134,98
+2023-10-20,Dallas Mavericks,Detroit Pistons,DAL,DET,American Airlines Center,114,104
+2023-10-20,Houston Rockets,Miami Heat,HOU,MIA,Toyota Center,110,104
+2023-10-20,Milwaukee Bucks,Memphis Grizzlies,MIL,MEM,Fiserv Forum,124,116
+2023-10-20,Golden State Warriors,San Antonio Spurs,GSW,SAS,Chase Center,117,122
+2023-10-24,Denver Nuggets,Los Angeles Lakers,DEN,LAL,Ball Arena,119,107
+2023-10-24,Golden State Warriors,Phoenix Suns,GSW,PHX,Chase Center,104,108
+2023-10-25,Charlotte Hornets,Atlanta Hawks,CHA,ATL,Spectrum Center,116,110
+2023-10-25,Indiana Pacers,Washington Wizards,IND,WAS,Gainbridge Fieldhouse,143,120
+2023-10-25,New York Knicks,Boston Celtics,NYK,BOS,Madison Square Garden,104,108
+2023-10-25,Orlando Magic,Houston Rockets,ORL,HOU,Amway Center,116,86
+2023-10-25,Brooklyn Nets,Cleveland Cavaliers,BKN,CLE,Barclays Center,113,114
+2023-10-25,Miami Heat,Detroit Pistons,MIA,DET,Kaseya Center,103,102
+2023-10-25,Toronto Raptors,Minnesota Timberwolves,TOR,MIN,Scotiabank Arena,97,94
+2023-10-25,Chicago Bulls,Oklahoma City Thunder,CHI,OKC,United Center,104,124
+2023-10-25,Memphis Grizzlies,New Orleans Pelicans,MEM,NOP,FedExForum,104,111
+2023-10-25,Utah Jazz,Sacramento Kings,UTA,SAC,Delta Center,114,130
+2023-10-25,San Antonio Spurs,Dallas Mavericks,SAS,DAL,Frost Bank Center,119,126
+2023-10-25,LA Clippers,Portland Trail Blazers,LAC,POR,Crypto.com Arena,123,111
+2023-10-26,Milwaukee Bucks,Philadelphia 76ers,MIL,PHI,Fiserv Forum,118,117
+2023-10-26,Los Angeles Lakers,Phoenix Suns,LAL,PHX,Crypto.com Arena,100,95
+2023-10-27,Charlotte Hornets,Detroit Pistons,CHA,DET,Spectrum Center,99,111
+2023-10-27,Memphis Grizzlies,Denver Nuggets,MEM,DEN,FedExForum,104,108
+2023-10-27,Atlanta Hawks,New York Knicks,ATL,NYK,State Farm Arena,120,126
+2023-10-27,Boston Celtics,Miami Heat,BOS,MIA,TD Garden,119,111
+2023-10-27,Cleveland Cavaliers,Oklahoma City Thunder,CLE,OKC,Rocket Mortgage FieldHouse,105,108
+2023-10-27,Chicago Bulls,Toronto Raptors,CHI,TOR,United Center,104,103
+2023-10-27,San Antonio Spurs,Houston Rockets,SAS,HOU,Frost Bank Center,126,122
+2023-10-27,Dallas Mavericks,Brooklyn Nets,DAL,BKN,American Airlines Center,125,120
+2023-10-27,Utah Jazz,LA Clippers,UTA,LAC,Delta Center,120,118
+2023-10-27,Portland Trail Blazers,Orlando Magic,POR,ORL,Moda Center,97,102
+2023-10-27,Sacramento Kings,Golden State Warriors,SAC,GSW,Golden 1 Center,114,122
+2023-10-28,Detroit Pistons,Chicago Bulls,DET,CHI,Little Caesars Arena,118,102
+2023-10-28,Washington Wizards,Memphis Grizzlies,WAS,MEM,Capital One Arena,113,106
+2023-10-28,New Orleans Pelicans,New York Knicks,NOP,NYK,Smoothie King Center,96,87
+2023-10-28,Cleveland Cavaliers,Indiana Pacers,CLE,IND,Rocket Mortgage FieldHouse,113,125
+2023-10-28,Toronto Raptors,Philadelphia 76ers,TOR,PHI,Scotiabank Arena,107,114
+2023-10-28,Minnesota Timberwolves,Miami Heat,MIN,MIA,Target Center,106,90
+2023-10-28,Phoenix Suns,Utah Jazz,PHX,UTA,Footprint Center,126,104
+2023-10-29,Oklahoma City Thunder,Denver Nuggets,OKC,DEN,Paycom Center,95,128
+2023-10-29,Houston Rockets,Golden State Warriors,HOU,GSW,Toyota Center,95,106
+2023-10-29,Milwaukee Bucks,Atlanta Hawks,MIL,ATL,Fiserv Forum,110,127
+2023-10-29,Philadelphia 76ers,Portland Trail Blazers,PHI,POR,Wells Fargo Center,126,98
+2023-10-29,LA Clippers,San Antonio Spurs,LAC,SAS,Crypto.com Arena,123,83
+2023-10-29,Sacramento Kings,Los Angeles Lakers,SAC,LAL,Golden 1 Center,132,127
+2023-10-30,Charlotte Hornets,Brooklyn Nets,CHA,BKN,Spectrum Center,121,133
+2023-10-30,Indiana Pacers,Chicago Bulls,IND,CHI,Gainbridge Fieldhouse,105,112
+2023-10-30,Washington Wizards,Boston Celtics,WAS,BOS,Capital One Arena,107,126
+2023-10-30,Atlanta Hawks,Minnesota Timberwolves,ATL,MIN,State Farm Arena,127,113
+2023-10-30,Toronto Raptors,Portland Trail Blazers,TOR,POR,Scotiabank Arena,91,99
+2023-10-30,Memphis Grizzlies,Dallas Mavericks,MEM,DAL,FedExForum,110,125
+2023-10-30,Milwaukee Bucks,Miami Heat,MIL,MIA,Fiserv Forum,122,114
+2023-10-30,New Orleans Pelicans,Golden State Warriors,NOP,GSW,Smoothie King Center,102,130
+2023-10-30,Oklahoma City Thunder,Detroit Pistons,OKC,DET,Paycom Center,124,112
+2023-10-30,Denver Nuggets,Utah Jazz,DEN,UTA,Ball Arena,110,102
+2023-10-30,Los Angeles Lakers,Orlando Magic,LAL,ORL,Crypto.com Arena,106,103
+2023-10-31,Cleveland Cavaliers,New York Knicks,CLE,NYK,Rocket Mortgage FieldHouse,91,109
+2023-10-31,Phoenix Suns,San Antonio Spurs,PHX,SAS,Footprint Center,114,115
+2023-10-31,LA Clippers,Orlando Magic,LAC,ORL,Crypto.com Arena,118,102
+2023-11-01,Detroit Pistons,Portland Trail Blazers,DET,POR,Little Caesars Arena,101,110
+2023-11-01,Toronto Raptors,Milwaukee Bucks,TOR,MIL,Scotiabank Arena,130,111
+2023-11-01,Atlanta Hawks,Washington Wizards,ATL,WAS,State Farm Arena,130,121
+2023-11-01,Boston Celtics,Indiana Pacers,BOS,IND,TD Garden,155,104
+2023-11-01,Miami Heat,Brooklyn Nets,MIA,BKN,Kaseya Center,105,109
+2023-11-01,New York Knicks,Cleveland Cavaliers,NYK,CLE,Madison Square Garden,89,95
+2023-11-01,Oklahoma City Thunder,New Orleans Pelicans,OKC,NOP,Paycom Center,106,110
+2023-11-01,Houston Rockets,Charlotte Hornets,HOU,CHA,Toyota Center,128,119
+2023-11-01,Minnesota Timberwolves,Denver Nuggets,MIN,DEN,Target Center,110,89
+2023-11-01,Dallas Mavericks,Chicago Bulls,DAL,CHI,American Airlines Center,114,105
+2023-11-01,Utah Jazz,Memphis Grizzlies,UTA,MEM,Delta Center,133,109
+2023-11-01,Golden State Warriors,Sacramento Kings,GSW,SAC,Chase Center,102,101
+2023-11-01,Los Angeles Lakers,LA Clippers,LAL,LAC,Crypto.com Arena,130,125
+2023-11-02,Philadelphia 76ers,Toronto Raptors,PHI,TOR,Wells Fargo Center,114,99
+2023-11-02,New Orleans Pelicans,Detroit Pistons,NOP,DET,Smoothie King Center,125,116
+2023-11-02,Utah Jazz,Orlando Magic,UTA,ORL,Delta Center,113,115
+2023-11-02,Phoenix Suns,San Antonio Spurs,PHX,SAS,Footprint Center,121,132
+2023-11-03,Indiana Pacers,Cleveland Cavaliers,IND,CLE,Gainbridge Fieldhouse,121,116
+2023-11-03,Milwaukee Bucks,New York Knicks,MIL,NYK,Fiserv Forum,110,105
+2023-11-03,Miami Heat,Washington Wizards,MIA,WAS,Kaseya Center,121,114
+2023-11-03,Chicago Bulls,Brooklyn Nets,CHI,BKN,United Center,107,109
+2023-11-03,Oklahoma City Thunder,Golden State Warriors,OKC,GSW,Paycom Center,139,141
+2023-11-03,Denver Nuggets,Dallas Mavericks,DEN,DAL,Ball Arena,125,114
+2023-11-03,Portland Trail Blazers,Memphis Grizzlies,POR,MEM,Moda Center,115,113
+2023-11-04,Philadelphia 76ers,Phoenix Suns,PHI,PHX,Wells Fargo Center,112,100
+2023-11-04,Indiana Pacers,Charlotte Hornets,IND,CHA,Gainbridge Fieldhouse,124,125
+2023-11-04,Orlando Magic,Los Angeles Lakers,ORL,LAL,Amway Center,120,101
+2023-11-04,New Orleans Pelicans,Atlanta Hawks,NOP,ATL,Smoothie King Center,105,123
+2023-11-04,Brooklyn Nets,Boston Celtics,BKN,BOS,Barclays Center,114,124
+2023-11-04,Houston Rockets,Sacramento Kings,HOU,SAC,Toyota Center,107,89
+2023-11-04,Minnesota Timberwolves,Utah Jazz,MIN,UTA,Target Center,123,95
+2023-11-04,Denver Nuggets,Chicago Bulls,DEN,CHI,Ball Arena,123,101
+2023-11-05,Detroit Pistons,Phoenix Suns,DET,PHX,Little Caesars Arena,106,120
+2023-11-05,San Antonio Spurs,Toronto Raptors,SAS,TOR,Frost Bank Center,116,123
+2023-11-05,Cleveland Cavaliers,Golden State Warriors,CLE,GSW,Rocket Mortgage FieldHouse,115,104
+2023-11-05,Dallas Mavericks,Charlotte Hornets,DAL,CHA,American Airlines Center,124,118
+2023-11-05,Portland Trail Blazers,Memphis Grizzlies,POR,MEM,Moda Center,100,112
+2023-11-06,Detroit Pistons,Golden State Warriors,DET,GSW,Little Caesars Arena,109,120
+2023-11-06,Indiana Pacers,San Antonio Spurs,IND,SAS,Gainbridge Fieldhouse,152,111
+2023-11-06,Orlando Magic,Dallas Mavericks,ORL,DAL,Amway Center,102,117
+2023-11-06,Philadelphia 76ers,Washington Wizards,PHI,WAS,Wells Fargo Center,146,128
+2023-11-06,Brooklyn Nets,Milwaukee Bucks,BKN,MIL,Barclays Center,125,129
+2023-11-06,Miami Heat,Los Angeles Lakers,MIA,LAL,Kaseya Center,108,107
+2023-11-06,New York Knicks,LA Clippers,NYK,LAC,Madison Square Garden,111,97
+2023-11-06,Chicago Bulls,Utah Jazz,CHI,UTA,United Center,130,113
+2023-11-06,Houston Rockets,Sacramento Kings,HOU,SAC,Toyota Center,122,97
+2023-11-06,Minnesota Timberwolves,Boston Celtics,MIN,BOS,Target Center,114,109
+2023-11-06,Oklahoma City Thunder,Atlanta Hawks,OKC,ATL,Paycom Center,126,117
+2023-11-06,Denver Nuggets,New Orleans Pelicans,DEN,NOP,Ball Arena,134,116
+2023-11-08,Charlotte Hornets,Washington Wizards,CHA,WAS,Spectrum Center,116,132
+2023-11-08,Indiana Pacers,Utah Jazz,IND,UTA,Gainbridge Fieldhouse,134,118
+2023-11-08,Philadelphia 76ers,Boston Celtics,PHI,BOS,Wells Fargo Center,106,103
+2023-11-08,Brooklyn Nets,LA Clippers,BKN,LAC,Barclays Center,100,93
+2023-11-08,New York Knicks,San Antonio Spurs,NYK,SAS,Madison Square Garden,126,105
+2023-11-08,Chicago Bulls,Phoenix Suns,CHI,PHX,United Center,115,116
+2023-11-08,Houston Rockets,Los Angeles Lakers,HOU,LAL,Toyota Center,128,94
+2023-11-08,Memphis Grizzlies,Miami Heat,MEM,MIA,FedExForum,102,108
+2023-11-08,Milwaukee Bucks,Detroit Pistons,MIL,DET,Fiserv Forum,120,118
+2023-11-08,Minnesota Timberwolves,New Orleans Pelicans,MIN,NOP,Target Center,122,101
+2023-11-08,Oklahoma City Thunder,Cleveland Cavaliers,OKC,CLE,Paycom Center,128,120
+2023-11-08,Dallas Mavericks,Toronto Raptors,DAL,TOR,American Airlines Center,116,127
+2023-11-08,Denver Nuggets,Golden State Warriors,DEN,GSW,Ball Arena,108,105
+2023-11-08,Sacramento Kings,Portland Trail Blazers,SAC,POR,Golden 1 Center,121,118
+2023-11-09,Indiana Pacers,Milwaukee Bucks,IND,MIL,Gainbridge Fieldhouse,126,124
+2023-11-09,Orlando Magic,Atlanta Hawks,ORL,ATL,Arena CDMX,119,120
+2023-11-10,Detroit Pistons,Philadelphia 76ers,DET,PHI,Little Caesars Arena,106,114
+2023-11-10,Washington Wizards,Charlotte Hornets,WAS,CHA,Capital One Arena,117,124
+2023-11-10,Boston Celtics,Brooklyn Nets,BOS,BKN,TD Garden,121,107
+2023-11-10,Houston Rockets,New Orleans Pelicans,HOU,NOP,Toyota Center,104,101
+2023-11-10,Memphis Grizzlies,Utah Jazz,MEM,UTA,FedExForum,121,127
+2023-11-10,San Antonio Spurs,Minnesota Timberwolves,SAS,MIN,Frost Bank Center,110,117
+2023-11-10,Dallas Mavericks,LA Clippers,DAL,LAC,American Airlines Center,144,126
+2023-11-10,Phoenix Suns,Los Angeles Lakers,PHX,LAL,Footprint Center,119,122
+2023-11-10,Sacramento Kings,Oklahoma City Thunder,SAC,OKC,Golden 1 Center,105,98
+2023-11-11,Orlando Magic,Milwaukee Bucks,ORL,MIL,Amway Center,112,97
+2023-11-11,Boston Celtics,Toronto Raptors,BOS,TOR,TD Garden,117,94
+2023-11-11,Atlanta Hawks,Miami Heat,ATL,MIA,State Farm Arena,109,117
+2023-11-11,Golden State Warriors,Cleveland Cavaliers,GSW,CLE,Chase Center,110,118
+2023-11-12,New York Knicks,Charlotte Hornets,NYK,CHA,Madison Square Garden,129,107
+2023-11-12,Brooklyn Nets,Washington Wizards,BKN,WAS,Barclays Center,102,94
+2023-11-12,LA Clippers,Memphis Grizzlies,LAC,MEM,Crypto.com Arena,101,105
+2023-11-12,Philadelphia 76ers,Indiana Pacers,PHI,IND,Wells Fargo Center,137,126
+2023-11-12,Chicago Bulls,Detroit Pistons,CHI,DET,United Center,119,108
+2023-11-12,Houston Rockets,Denver Nuggets,HOU,DEN,Toyota Center,107,104
+2023-11-12,New Orleans Pelicans,Dallas Mavericks,NOP,DAL,Smoothie King Center,124,136
+2023-11-12,San Antonio Spurs,Miami Heat,SAS,MIA,Frost Bank Center,113,118
+2023-11-12,Phoenix Suns,Oklahoma City Thunder,PHX,OKC,Footprint Center,99,111
+2023-11-12,Golden State Warriors,Minnesota Timberwolves,GSW,MIN,Chase Center,110,116
+2023-11-12,Los Angeles Lakers,Portland Trail Blazers,LAL,POR,Crypto.com Arena,116,110
+2023-11-13,Boston Celtics,New York Knicks,BOS,NYK,TD Garden,114,98
+2023-11-13,Toronto Raptors,Washington Wizards,TOR,WAS,Scotiabank Arena,111,107
+2023-11-13,Milwaukee Bucks,Chicago Bulls,MIL,CHI,Fiserv Forum,118,109
+2023-11-13,Sacramento Kings,Cleveland Cavaliers,SAC,CLE,Golden 1 Center,132,120
+2023-11-14,Charlotte Hornets,Miami Heat,CHA,MIA,Spectrum Center,105,111
+2023-11-14,Detroit Pistons,Atlanta Hawks,DET,ATL,Little Caesars Arena,120,126
+2023-11-14,Philadelphia 76ers,Indiana Pacers,PHI,IND,Wells Fargo Center,126,132
+2023-11-14,Brooklyn Nets,Orlando Magic,BKN,ORL,Barclays Center,124,104
+2023-11-14,Oklahoma City Thunder,San Antonio Spurs,OKC,SAS,Paycom Center,123,87
+2023-11-14,New Orleans Pelicans,Dallas Mavericks,NOP,DAL,Smoothie King Center,131,110
+2023-11-14,Utah Jazz,Portland Trail Blazers,UTA,POR,Delta Center,115,99
+2023-11-14,Denver Nuggets,LA Clippers,DEN,LAC,Ball Arena,111,108
+2023-11-14,Golden State Warriors,Minnesota Timberwolves,GSW,MIN,Chase Center,101,104
+2023-11-14,Los Angeles Lakers,Memphis Grizzlies,LAL,MEM,Crypto.com Arena,134,107
+2023-11-15,Washington Wizards,Dallas Mavericks,WAS,DAL,Capital One Arena,117,130
+2023-11-15,Atlanta Hawks,New York Knicks,ATL,NYK,State Farm Arena,114,116
+2023-11-15,Philadelphia 76ers,Boston Celtics,PHI,BOS,Wells Fargo Center,107,117
+2023-11-15,Toronto Raptors,Milwaukee Bucks,TOR,MIL,Scotiabank Arena,112,128
+2023-11-15,Chicago Bulls,Orlando Magic,CHI,ORL,United Center,94,96
+2023-11-15,Phoenix Suns,Minnesota Timberwolves,PHX,MIN,Footprint Center,133,115
+2023-11-15,Los Angeles Lakers,Sacramento Kings,LAL,SAC,Crypto.com Arena,110,125
+2023-11-15,Portland Trail Blazers,Cleveland Cavaliers,POR,CLE,Moda Center,95,109
+2023-11-16,Miami Heat,Brooklyn Nets,MIA,BKN,Kaseya Center,122,115
+2023-11-16,Golden State Warriors,Oklahoma City Thunder,GSW,OKC,Chase Center,109,128
+2023-11-17,Charlotte Hornets,Milwaukee Bucks,CHA,MIL,Spectrum Center,99,130
+2023-11-17,Washington Wizards,New York Knicks,WAS,NYK,Capital One Arena,99,120
+2023-11-17,Atlanta Hawks,Philadelphia 76ers,ATL,PHI,State Farm Arena,116,126
+2023-11-17,Cleveland Cavaliers,Detroit Pistons,CLE,DET,Rocket Mortgage FieldHouse,108,100
+2023-11-17,Toronto Raptors,Boston Celtics,TOR,BOS,Scotiabank Arena,105,108
+2023-11-17,San Antonio Spurs,Sacramento Kings,SAS,SAC,Frost Bank Center,120,129
+2023-11-17,Chicago Bulls,Orlando Magic,CHI,ORL,United Center,97,103
+2023-11-17,New Orleans Pelicans,Denver Nuggets,NOP,DEN,Smoothie King Center,115,110
+2023-11-17,Utah Jazz,Phoenix Suns,UTA,PHX,Delta Center,128,131
+2023-11-17,Portland Trail Blazers,Los Angeles Lakers,POR,LAL,Moda Center,95,107
+2023-11-17,LA Clippers,Houston Rockets,LAC,HOU,Crypto.com Arena,106,100
+2023-11-18,Charlotte Hornets,New York Knicks,CHA,NYK,Spectrum Center,108,122
+2023-11-18,New Orleans Pelicans,Minnesota Timberwolves,NOP,MIN,Smoothie King Center,120,121
+2023-11-18,Chicago Bulls,Miami Heat,CHI,MIA,United Center,102,97
+2023-11-18,Milwaukee Bucks,Dallas Mavericks,MIL,DAL,Fiserv Forum,132,125
+2023-11-18,San Antonio Spurs,Memphis Grizzlies,SAS,MEM,Frost Bank Center,108,120
+2023-11-18,Golden State Warriors,Oklahoma City Thunder,GSW,OKC,Chase Center,123,130
+2023-11-19,Brooklyn Nets,Philadelphia 76ers,BKN,PHI,Barclays Center,99,121
+2023-11-19,Toronto Raptors,Detroit Pistons,TOR,DET,Scotiabank Arena,142,113
+2023-11-19,Indiana Pacers,Orlando Magic,IND,ORL,Gainbridge Fieldhouse,116,128
+2023-11-19,Cleveland Cavaliers,Denver Nuggets,CLE,DEN,Rocket Mortgage FieldHouse,121,109
+2023-11-19,Dallas Mavericks,Sacramento Kings,DAL,SAC,American Airlines Center,113,129
+2023-11-19,Memphis Grizzlies,Boston Celtics,MEM,BOS,FedExForum,100,102
+2023-11-19,Utah Jazz,Phoenix Suns,UTA,PHX,Delta Center,137,140
+2023-11-19,Portland Trail Blazers,Oklahoma City Thunder,POR,OKC,Moda Center,91,134
+2023-11-19,Los Angeles Lakers,Houston Rockets,LAL,HOU,Crypto.com Arena,105,104
+2023-11-20,Charlotte Hornets,Boston Celtics,CHA,BOS,Spectrum Center,121,118
+2023-11-20,Detroit Pistons,Denver Nuggets,DET,DEN,Little Caesars Arena,103,107
+2023-11-20,Washington Wizards,Milwaukee Bucks,WAS,MIL,Capital One Arena,129,142
+2023-11-20,Chicago Bulls,Miami Heat,CHI,MIA,United Center,100,118
+2023-11-20,Minnesota Timberwolves,New York Knicks,MIN,NYK,Target Center,117,100
+2023-11-20,New Orleans Pelicans,Sacramento Kings,NOP,SAC,Smoothie King Center,129,93
+2023-11-20,San Antonio Spurs,LA Clippers,SAS,LAC,Frost Bank Center,99,124
+2023-11-20,Golden State Warriors,Houston Rockets,GSW,HOU,Chase Center,121,116
+2023-11-21,Orlando Magic,Toronto Raptors,ORL,TOR,Amway Center,126,107
+2023-11-21,Atlanta Hawks,Indiana Pacers,ATL,IND,State Farm Arena,152,157
+2023-11-21,Philadelphia 76ers,Cleveland Cavaliers,PHI,CLE,Wells Fargo Center,119,122
+2023-11-21,Phoenix Suns,Portland Trail Blazers,PHX,POR,Footprint Center,120,107
+2023-11-21,Los Angeles Lakers,Utah Jazz,LAL,UTA,Crypto.com Arena,131,99
+2023-11-22,Charlotte Hornets,Washington Wizards,CHA,WAS,Spectrum Center,117,114
+2023-11-22,Orlando Magic,Denver Nuggets,ORL,DEN,Amway Center,124,119
+2023-11-22,Atlanta Hawks,Brooklyn Nets,ATL,BKN,State Farm Arena,147,145
+2023-11-22,Boston Celtics,Milwaukee Bucks,BOS,MIL,TD Garden,119,116
+2023-11-22,Cleveland Cavaliers,Miami Heat,CLE,MIA,Rocket Mortgage FieldHouse,96,129
+2023-11-22,Indiana Pacers,Toronto Raptors,IND,TOR,Gainbridge Fieldhouse,131,132
+2023-11-22,Houston Rockets,Memphis Grizzlies,HOU,MEM,Toyota Center,111,91
+2023-11-22,Minnesota Timberwolves,Philadelphia 76ers,MIN,PHI,Target Center,112,99
+2023-11-22,New Orleans Pelicans,Sacramento Kings,NOP,SAC,Smoothie King Center,117,112
+2023-11-22,Oklahoma City Thunder,Chicago Bulls,OKC,CHI,Paycom Center,116,102
+2023-11-22,San Antonio Spurs,LA Clippers,SAS,LAC,Frost Bank Center,102,109
+2023-11-22,Phoenix Suns,Golden State Warriors,PHX,GSW,Footprint Center,123,115
+2023-11-22,Portland Trail Blazers,Utah Jazz,POR,UTA,Moda Center,121,105
+2023-11-22,Los Angeles Lakers,Dallas Mavericks,LAL,DAL,Crypto.com Arena,101,104
+2023-11-24,Orlando Magic,Boston Celtics,ORL,BOS,Amway Center,113,96
+2023-11-24,Memphis Grizzlies,Phoenix Suns,MEM,PHX,FedExForum,89,110
+2023-11-24,New York Knicks,Miami Heat,NYK,MIA,Madison Square Garden,100,98
+2023-11-24,Toronto Raptors,Chicago Bulls,TOR,CHI,Scotiabank Arena,121,108
+2023-11-24,Indiana Pacers,Detroit Pistons,IND,DET,Gainbridge Fieldhouse,136,113
+2023-11-24,Houston Rockets,Denver Nuggets,HOU,DEN,Toyota Center,105,86
+2023-11-24,Milwaukee Bucks,Washington Wizards,MIL,WAS,Fiserv Forum,131,128
+2023-11-24,Minnesota Timberwolves,Sacramento Kings,MIN,SAC,Target Center,111,124
+2023-11-24,Golden State Warriors,San Antonio Spurs,GSW,SAS,Chase Center,118,112
+2023-11-24,LA Clippers,New Orleans Pelicans,LAC,NOP,Crypto.com Arena,106,116
+2023-11-25,Oklahoma City Thunder,Philadelphia 76ers,OKC,PHI,Paycom Center,123,127
+2023-11-25,Brooklyn Nets,Miami Heat,BKN,MIA,Barclays Center,112,97
+2023-11-25,Washington Wizards,Atlanta Hawks,WAS,ATL,Capital One Arena,108,136
+2023-11-25,Cleveland Cavaliers,Los Angeles Lakers,CLE,LAL,Rocket Mortgage FieldHouse,115,121
+2023-11-25,Utah Jazz,New Orleans Pelicans,UTA,NOP,Delta Center,105,100
+2023-11-25,LA Clippers,Dallas Mavericks,LAC,DAL,Crypto.com Arena,107,88
+2023-11-26,Milwaukee Bucks,Portland Trail Blazers,MIL,POR,Fiserv Forum,108,102
+2023-11-26,Boston Celtics,Atlanta Hawks,BOS,ATL,TD Garden,113,103
+2023-11-26,New York Knicks,Phoenix Suns,NYK,PHX,Madison Square Garden,113,116
+2023-11-26,Orlando Magic,Charlotte Hornets,ORL,CHA,Amway Center,130,117
+2023-11-26,Memphis Grizzlies,Minnesota Timberwolves,MEM,MIN,FedExForum,97,119
+2023-11-26,Brooklyn Nets,Chicago Bulls,BKN,CHI,Barclays Center,118,109
+2023-11-26,Cleveland Cavaliers,Toronto Raptors,CLE,TOR,Rocket Mortgage FieldHouse,105,102
+2023-11-26,Denver Nuggets,San Antonio Spurs,DEN,SAS,Ball Arena,132,120
+2023-11-27,Detroit Pistons,Washington Wizards,DET,WAS,Little Caesars Arena,107,126
+2023-11-27,Indiana Pacers,Portland Trail Blazers,IND,POR,Gainbridge Fieldhouse,110,114
+2023-11-27,Philadelphia 76ers,Los Angeles Lakers,PHI,LAL,Wells Fargo Center,138,94
+2023-11-27,Utah Jazz,New Orleans Pelicans,UTA,NOP,Delta Center,114,112
+2023-11-27,LA Clippers,Denver Nuggets,LAC,DEN,Crypto.com Arena,104,113
+2023-11-28,Boston Celtics,Chicago Bulls,BOS,CHI,TD Garden,124,97
+2023-11-28,Brooklyn Nets,Toronto Raptors,BKN,TOR,Barclays Center,115,103
+2023-11-28,Cleveland Cavaliers,Atlanta Hawks,CLE,ATL,Rocket Mortgage FieldHouse,128,105
+2023-11-28,Miami Heat,Milwaukee Bucks,MIA,MIL,Kaseya Center,124,131
+2023-11-28,New York Knicks,Charlotte Hornets,NYK,CHA,Madison Square Garden,115,91
+2023-11-28,Minnesota Timberwolves,Oklahoma City Thunder,MIN,OKC,Target Center,106,103
+2023-11-28,Dallas Mavericks,Houston Rockets,DAL,HOU,American Airlines Center,121,115
+2023-11-28,Sacramento Kings,Golden State Warriors,SAC,GSW,Golden 1 Center,124,123
+2023-11-29,Detroit Pistons,Los Angeles Lakers,DET,LAL,Little Caesars Arena,107,133
+2023-11-29,Orlando Magic,Washington Wizards,ORL,WAS,Amway Center,139,120
+2023-11-29,Toronto Raptors,Phoenix Suns,TOR,PHX,Scotiabank Arena,112,105
+2023-11-29,Memphis Grizzlies,Utah Jazz,MEM,UTA,FedExForum,105,91
+2023-11-29,New Orleans Pelicans,Philadelphia 76ers,NOP,PHI,Smoothie King Center,124,114
+2023-11-29,Denver Nuggets,Houston Rockets,DEN,HOU,Ball Arena,134,124
+2023-11-29,Sacramento Kings,LA Clippers,SAC,LAC,Golden 1 Center,117,131
+2023-11-30,Cleveland Cavaliers,Portland Trail Blazers,CLE,POR,Rocket Mortgage FieldHouse,95,103
+2023-11-30,Brooklyn Nets,Charlotte Hornets,BKN,CHA,Barclays Center,128,129
+2023-11-30,Miami Heat,Indiana Pacers,MIA,IND,Kaseya Center,142,132
+2023-11-30,New York Knicks,Detroit Pistons,NYK,DET,Madison Square Garden,118,112
+2023-11-30,Chicago Bulls,Milwaukee Bucks,CHI,MIL,United Center,120,113
+2023-11-30,Minnesota Timberwolves,Utah Jazz,MIN,UTA,Target Center,101,90
+2023-11-30,Oklahoma City Thunder,Los Angeles Lakers,OKC,LAL,Paycom Center,133,110
+2023-11-30,San Antonio Spurs,Atlanta Hawks,SAS,ATL,Frost Bank Center,135,137
+2023-11-30,Golden State Warriors,LA Clippers,GSW,LAC,Chase Center,120,114
+2023-12-01,Orlando Magic,Washington Wizards,ORL,WAS,Amway Center,130,125
+2023-12-01,Boston Celtics,Philadelphia 76ers,BOS,PHI,TD Garden,125,119
+2023-12-01,Toronto Raptors,New York Knicks,TOR,NYK,Scotiabank Arena,106,119
+2023-12-01,Dallas Mavericks,Memphis Grizzlies,DAL,MEM,American Airlines Center,94,108
+2023-12-01,New Orleans Pelicans,San Antonio Spurs,NOP,SAS,Smoothie King Center,121,106
+2023-12-01,Phoenix Suns,Denver Nuggets,PHX,DEN,Footprint Center,111,119
+2023-12-02,LA Clippers,Golden State Warriors,LAC,GSW,Crypto.com Arena,113,112
+2023-12-02,Charlotte Hornets,Minnesota Timberwolves,CHA,MIN,Spectrum Center,117,123
+2023-12-02,Brooklyn Nets,Orlando Magic,BKN,ORL,Barclays Center,129,101
+2023-12-02,Detroit Pistons,Cleveland Cavaliers,DET,CLE,Little Caesars Arena,101,110
+2023-12-02,Miami Heat,Indiana Pacers,MIA,IND,Kaseya Center,129,144
+2023-12-02,Chicago Bulls,New Orleans Pelicans,CHI,NOP,United Center,124,118
+2023-12-02,Milwaukee Bucks,Atlanta Hawks,MIL,ATL,Fiserv Forum,132,121
+2023-12-02,Dallas Mavericks,Oklahoma City Thunder,DAL,OKC,American Airlines Center,120,126
+2023-12-02,Phoenix Suns,Memphis Grizzlies,PHX,MEM,Footprint Center,116,109
+2023-12-02,Utah Jazz,Portland Trail Blazers,UTA,POR,Delta Center,118,113
+2023-12-02,Sacramento Kings,Denver Nuggets,SAC,DEN,Golden 1 Center,123,117
+2023-12-02,Los Angeles Lakers,Houston Rockets,LAL,HOU,Crypto.com Arena,107,97
+2023-12-04,Indiana Pacers,Boston Celtics,IND,BOS,Gainbridge Fieldhouse,122,112
+2023-12-04,Sacramento Kings,New Orleans Pelicans,SAC,NOP,Golden 1 Center,117,127
+2023-12-05,Milwaukee Bucks,New York Knicks,MIL,NYK,Fiserv Forum,146,122
+2023-12-05,Los Angeles Lakers,Phoenix Suns,LAL,PHX,Crypto.com Arena,106,103
+2023-12-06,Cleveland Cavaliers,Orlando Magic,CLE,ORL,Rocket Mortgage FieldHouse,121,111
+2023-12-06,Detroit Pistons,Memphis Grizzlies,DET,MEM,Little Caesars Arena,102,116
+2023-12-06,Washington Wizards,Philadelphia 76ers,WAS,PHI,Capital One Arena,126,131
+2023-12-06,Toronto Raptors,Miami Heat,TOR,MIA,Scotiabank Arena,103,112
+2023-12-06,Atlanta Hawks,Brooklyn Nets,ATL,BKN,State Farm Arena,113,114
+2023-12-06,Minnesota Timberwolves,San Antonio Spurs,MIN,SAS,Target Center,102,94
+2023-12-06,Chicago Bulls,Charlotte Hornets,CHI,CHA,United Center,111,100
+2023-12-06,Houston Rockets,Oklahoma City Thunder,HOU,OKC,Toyota Center,110,101
+2023-12-06,Dallas Mavericks,Utah Jazz,DAL,UTA,American Airlines Center,147,97
+2023-12-06,Golden State Warriors,Portland Trail Blazers,GSW,POR,Chase Center,110,106
+2023-12-06,LA Clippers,Denver Nuggets,LAC,DEN,Crypto.com Arena,111,102
+2023-12-07,Milwaukee Bucks,Indiana Pacers,MIL,IND,T-Mobile Arena,119,128
+2023-12-07,Los Angeles Lakers,New Orleans Pelicans,LAL,NOP,T-Mobile Arena,133,89
+2023-12-08,Charlotte Hornets,Toronto Raptors,CHA,TOR,Spectrum Center,119,116
+2023-12-08,Orlando Magic,Detroit Pistons,ORL,DET,Amway Center,123,91
+2023-12-08,Philadelphia 76ers,Atlanta Hawks,PHI,ATL,Wells Fargo Center,125,114
+2023-12-08,Brooklyn Nets,Washington Wizards,BKN,WAS,Barclays Center,124,97
+2023-12-08,Boston Celtics,New York Knicks,BOS,NYK,TD Garden,133,123
+2023-12-08,Miami Heat,Cleveland Cavaliers,MIA,CLE,Kaseya Center,99,111
+2023-12-08,Memphis Grizzlies,Minnesota Timberwolves,MEM,MIN,FedExForum,103,127
+2023-12-08,Oklahoma City Thunder,Golden State Warriors,OKC,GSW,Paycom Center,138,136
+2023-12-08,San Antonio Spurs,Chicago Bulls,SAS,CHI,Frost Bank Center,112,121
+2023-12-08,Denver Nuggets,Houston Rockets,DEN,HOU,Ball Arena,106,114
+2023-12-08,Phoenix Suns,Sacramento Kings,PHX,SAC,Footprint Center,106,114
+2023-12-08,Utah Jazz,LA Clippers,UTA,LAC,Delta Center,103,117
+2023-12-08,Portland Trail Blazers,Dallas Mavericks,POR,DAL,Moda Center,112,125
+2023-12-09,Los Angeles Lakers,Indiana Pacers,LAL,IND,T-Mobile Arena,123,109
+2023-12-11,Charlotte Hornets,Miami Heat,CHA,MIA,Spectrum Center,114,116
+2023-12-11,Detroit Pistons,Indiana Pacers,DET,IND,Little Caesars Arena,123,131
+2023-12-11,Orlando Magic,Cleveland Cavaliers,ORL,CLE,Amway Center,104,94
+2023-12-11,Philadelphia 76ers,Washington Wizards,PHI,WAS,Wells Fargo Center,146,101
+2023-12-11,Atlanta Hawks,Denver Nuggets,ATL,DEN,State Farm Arena,122,129
+2023-12-11,New York Knicks,Toronto Raptors,NYK,TOR,Madison Square Garden,136,130
+2023-12-11,Houston Rockets,San Antonio Spurs,HOU,SAS,Toyota Center,93,82
+2023-12-11,Memphis Grizzlies,Dallas Mavericks,MEM,DAL,FedExForum,113,120
+2023-12-11,Milwaukee Bucks,Chicago Bulls,MIL,CHI,Fiserv Forum,133,129
+2023-12-11,New Orleans Pelicans,Minnesota Timberwolves,NOP,MIN,Smoothie King Center,121,107
+2023-12-11,Oklahoma City Thunder,Utah Jazz,OKC,UTA,Paycom Center,134,120
+2023-12-11,Sacramento Kings,Brooklyn Nets,SAC,BKN,Golden 1 Center,131,118
+2023-12-11,LA Clippers,Portland Trail Blazers,LAC,POR,Crypto.com Arena,132,127
+2023-12-12,Boston Celtics,Cleveland Cavaliers,BOS,CLE,TD Garden,120,113
+2023-12-12,Dallas Mavericks,Los Angeles Lakers,DAL,LAL,American Airlines Center,127,125
+2023-12-12,Chicago Bulls,Denver Nuggets,CHI,DEN,United Center,106,114
+2023-12-12,Phoenix Suns,Golden State Warriors,PHX,GSW,Footprint Center,119,116
+2023-12-12,LA Clippers,Sacramento Kings,LAC,SAC,Crypto.com Arena,119,99
+2023-12-13,Detroit Pistons,Philadelphia 76ers,DET,PHI,Little Caesars Arena,111,129
+2023-12-13,Washington Wizards,New Orleans Pelicans,WAS,NOP,Capital One Arena,122,142
+2023-12-13,Miami Heat,Charlotte Hornets,MIA,CHA,Kaseya Center,115,104
+2023-12-13,Toronto Raptors,Atlanta Hawks,TOR,ATL,Scotiabank Arena,135,128
+2023-12-13,Houston Rockets,Memphis Grizzlies,HOU,MEM,Toyota Center,117,104
+2023-12-13,Milwaukee Bucks,Indiana Pacers,MIL,IND,Fiserv Forum,140,126
+2023-12-13,San Antonio Spurs,Los Angeles Lakers,SAS,LAL,Frost Bank Center,119,122
+2023-12-13,Phoenix Suns,Brooklyn Nets,PHX,BKN,Footprint Center,112,116
+2023-12-13,Utah Jazz,New York Knicks,UTA,NYK,Delta Center,117,113
+2023-12-14,Boston Celtics,Cleveland Cavaliers,BOS,CLE,TD Garden,116,107
+2023-12-14,Miami Heat,Chicago Bulls,MIA,CHI,Kaseya Center,116,124
+2023-12-14,Dallas Mavericks,Minnesota Timberwolves,DAL,MIN,American Airlines Center,101,119
+2023-12-14,Denver Nuggets,Brooklyn Nets,DEN,BKN,Ball Arena,124,101
+2023-12-14,Portland Trail Blazers,Utah Jazz,POR,UTA,Moda Center,114,122
+2023-12-14,Sacramento Kings,Oklahoma City Thunder,SAC,OKC,Golden 1 Center,128,123
+2023-12-14,LA Clippers,Golden State Warriors,LAC,GSW,Crypto.com Arena,121,113
+2023-12-15,Charlotte Hornets,New Orleans Pelicans,CHA,NOP,Spectrum Center,107,112
+2023-12-15,Philadelphia 76ers,Detroit Pistons,PHI,DET,Wells Fargo Center,124,92
+2023-12-15,Washington Wizards,Indiana Pacers,WAS,IND,Capital One Arena,137,123
+2023-12-15,Boston Celtics,Orlando Magic,BOS,ORL,TD Garden,128,111
+2023-12-15,Toronto Raptors,Atlanta Hawks,TOR,ATL,Scotiabank Arena,104,125
+2023-12-15,San Antonio Spurs,Los Angeles Lakers,SAS,LAL,Frost Bank Center,129,115
+2023-12-15,Memphis Grizzlies,Houston Rockets,MEM,HOU,FedExForum,96,103
+2023-12-15,Phoenix Suns,New York Knicks,PHX,NYK,Footprint Center,122,139
+2023-12-16,Milwaukee Bucks,Detroit Pistons,MIL,DET,Fiserv Forum,146,114
+2023-12-16,Charlotte Hornets,Philadelphia 76ers,CHA,PHI,Spectrum Center,82,135
+2023-12-16,Cleveland Cavaliers,Atlanta Hawks,CLE,ATL,Rocket Mortgage FieldHouse,127,119
+2023-12-16,Miami Heat,Chicago Bulls,MIA,CHI,Kaseya Center,118,116
+2023-12-16,Minnesota Timberwolves,Indiana Pacers,MIN,IND,Target Center,127,109
+2023-12-16,Golden State Warriors,Brooklyn Nets,GSW,BKN,Chase Center,124,120
+2023-12-16,Denver Nuggets,Oklahoma City Thunder,DEN,OKC,Ball Arena,117,118
+2023-12-16,Portland Trail Blazers,Dallas Mavericks,POR,DAL,Moda Center,120,131
+2023-12-16,Sacramento Kings,Utah Jazz,SAC,UTA,Golden 1 Center,125,104
+2023-12-16,LA Clippers,New York Knicks,LAC,NYK,Crypto.com Arena,144,122
+2023-12-17,Boston Celtics,Orlando Magic,BOS,ORL,TD Garden,114,97
+2023-12-17,San Antonio Spurs,New Orleans Pelicans,SAS,NOP,Frost Bank Center,110,146
+2023-12-17,Milwaukee Bucks,Houston Rockets,MIL,HOU,Fiserv Forum,128,119
+2023-12-17,Phoenix Suns,Washington Wizards,PHX,WAS,Footprint Center,112,108
+2023-12-17,Portland Trail Blazers,Golden State Warriors,POR,GSW,Moda Center,114,118
+2023-12-18,Cleveland Cavaliers,Houston Rockets,CLE,HOU,Rocket Mortgage FieldHouse,135,130
+2023-12-18,Indiana Pacers,LA Clippers,IND,LAC,Gainbridge Fieldhouse,127,151
+2023-12-18,Philadelphia 76ers,Chicago Bulls,PHI,CHI,Wells Fargo Center,104,108
+2023-12-18,Atlanta Hawks,Detroit Pistons,ATL,DET,State Farm Arena,130,124
+2023-12-18,Miami Heat,Minnesota Timberwolves,MIA,MIN,Kaseya Center,108,112
+2023-12-18,Toronto Raptors,Charlotte Hornets,TOR,CHA,Scotiabank Arena,114,99
+2023-12-18,Oklahoma City Thunder,Memphis Grizzlies,OKC,MEM,Paycom Center,116,97
+2023-12-18,Denver Nuggets,Dallas Mavericks,DEN,DAL,Ball Arena,130,104
+2023-12-18,Utah Jazz,Brooklyn Nets,UTA,BKN,Delta Center,125,108
+2023-12-18,Sacramento Kings,Washington Wizards,SAC,WAS,Golden 1 Center,143,131
+2023-12-18,Los Angeles Lakers,New York Knicks,LAL,NYK,Crypto.com Arena,109,114
+2023-12-19,New Orleans Pelicans,Memphis Grizzlies,NOP,MEM,Smoothie King Center,113,115
+2023-12-19,Milwaukee Bucks,San Antonio Spurs,MIL,SAS,Fiserv Forum,132,119
+2023-12-19,Golden State Warriors,Boston Celtics,GSW,BOS,Chase Center,132,126
+2023-12-19,Portland Trail Blazers,Phoenix Suns,POR,PHX,Moda Center,109,104
+2023-12-20,Cleveland Cavaliers,Utah Jazz,CLE,UTA,Rocket Mortgage FieldHouse,124,116
+2023-12-20,Indiana Pacers,Charlotte Hornets,IND,CHA,Gainbridge Fieldhouse,144,113
+2023-12-20,Orlando Magic,Miami Heat,ORL,MIA,Kia Center,106,115
+2023-12-20,Philadelphia 76ers,Minnesota Timberwolves,PHI,MIN,Wells Fargo Center,127,113
+2023-12-20,Brooklyn Nets,New York Knicks,BKN,NYK,Barclays Center,102,121
+2023-12-20,Toronto Raptors,Denver Nuggets,TOR,DEN,Scotiabank Arena,104,113
+2023-12-20,Chicago Bulls,Los Angeles Lakers,CHI,LAL,United Center,124,108
+2023-12-20,Houston Rockets,Atlanta Hawks,HOU,ATL,Toyota Center,127,134
+2023-12-20,Dallas Mavericks,LA Clippers,DAL,LAC,American Airlines Center,111,120
+2023-12-20,Sacramento Kings,Boston Celtics,SAC,BOS,Golden 1 Center,119,144
+2023-12-21,Detroit Pistons,Utah Jazz,DET,UTA,Little Caesars Arena,111,119
+2023-12-21,Cleveland Cavaliers,New Orleans Pelicans,CLE,NOP,Rocket Mortgage FieldHouse,104,123
+2023-12-21,Chicago Bulls,San Antonio Spurs,CHI,SAS,United Center,114,95
+2023-12-21,Memphis Grizzlies,Indiana Pacers,MEM,IND,FedExForum,116,103
+2023-12-21,Milwaukee Bucks,Orlando Magic,MIL,ORL,Fiserv Forum,118,114
+2023-12-21,Oklahoma City Thunder,LA Clippers,OKC,LAC,Paycom Center,134,115
+2023-12-21,Minnesota Timberwolves,Los Angeles Lakers,MIN,LAL,Target Center,118,111
+2023-12-21,Portland Trail Blazers,Washington Wizards,POR,WAS,Moda Center,117,118
+2023-12-22,Philadelphia 76ers,Toronto Raptors,PHI,TOR,Wells Fargo Center,121,111
+2023-12-22,Brooklyn Nets,Denver Nuggets,BKN,DEN,Barclays Center,117,122
+2023-12-22,Miami Heat,Atlanta Hawks,MIA,ATL,Kaseya Center,122,113
+2023-12-22,Houston Rockets,Dallas Mavericks,HOU,DAL,Toyota Center,122,96
+2023-12-22,Golden State Warriors,Washington Wizards,GSW,WAS,Chase Center,129,118
+2023-12-22,Sacramento Kings,Phoenix Suns,SAC,PHX,Golden 1 Center,120,105
+2023-12-23,New York Knicks,Milwaukee Bucks,NYK,MIL,Madison Square Garden,111,130
+2023-12-23,LA Clippers,Boston Celtics,LAC,BOS,Crypto.com Arena,108,145
+2023-12-23,Charlotte Hornets,Denver Nuggets,CHA,DEN,Spectrum Center,95,102
+2023-12-23,Indiana Pacers,Orlando Magic,IND,ORL,Gainbridge Fieldhouse,110,117
+2023-12-23,New Orleans Pelicans,Houston Rockets,NOP,HOU,Smoothie King Center,104,106
+2023-12-23,Atlanta Hawks,Memphis Grizzlies,ATL,MEM,State Farm Arena,119,125
+2023-12-23,Brooklyn Nets,Detroit Pistons,BKN,DET,Barclays Center,126,115
+2023-12-23,Toronto Raptors,Utah Jazz,TOR,UTA,Scotiabank Arena,119,126
+2023-12-23,Chicago Bulls,Cleveland Cavaliers,CHI,CLE,United Center,95,109
+2023-12-23,Oklahoma City Thunder,Los Angeles Lakers,OKC,LAL,Paycom Center,120,129
+2023-12-23,Dallas Mavericks,San Antonio Spurs,DAL,SAS,American Airlines Center,144,119
+2023-12-23,Golden State Warriors,Portland Trail Blazers,GSW,POR,Chase Center,126,106
+2023-12-23,Sacramento Kings,Minnesota Timberwolves,SAC,MIN,Golden 1 Center,98,110
+2023-12-25,New York Knicks,Milwaukee Bucks,NYK,MIL,Madison Square Garden,129,122
+2023-12-25,Denver Nuggets,Golden State Warriors,DEN,GSW,Ball Arena,120,114
+2023-12-25,Los Angeles Lakers,Boston Celtics,LAL,BOS,Crypto.com Arena,115,126
+2023-12-25,Miami Heat,Philadelphia 76ers,MIA,PHI,Kaseya Center,119,113
+2023-12-25,Phoenix Suns,Dallas Mavericks,PHX,DAL,Footprint Center,114,128
+2023-12-26,Detroit Pistons,Brooklyn Nets,DET,BKN,Little Caesars Arena,112,118
+2023-12-26,Washington Wizards,Orlando Magic,WAS,ORL,Capital One Arena,119,127
+2023-12-26,Chicago Bulls,Atlanta Hawks,CHI,ATL,United Center,118,113
+2023-12-26,Houston Rockets,Indiana Pacers,HOU,IND,Toyota Center,117,123
+2023-12-26,New Orleans Pelicans,Memphis Grizzlies,NOP,MEM,Smoothie King Center,115,116
+2023-12-26,Oklahoma City Thunder,Minnesota Timberwolves,OKC,MIN,Paycom Center,129,106
+2023-12-26,San Antonio Spurs,Utah Jazz,SAS,UTA,Frost Bank Center,118,130
+2023-12-26,Portland Trail Blazers,Sacramento Kings,POR,SAC,Moda Center,130,113
+2023-12-26,LA Clippers,Charlotte Hornets,LAC,CHA,Crypto.com Arena,113,104
+2023-12-27,Orlando Magic,Philadelphia 76ers,ORL,PHI,Kia Center,92,112
+2023-12-27,Washington Wizards,Toronto Raptors,WAS,TOR,Capital One Arena,102,132
+2023-12-27,Brooklyn Nets,Milwaukee Bucks,BKN,MIL,Barclays Center,122,144
+2023-12-27,Houston Rockets,Phoenix Suns,HOU,PHX,Toyota Center,113,129
+2023-12-27,Oklahoma City Thunder,New York Knicks,OKC,NYK,Paycom Center,129,120
+2023-12-27,Dallas Mavericks,Cleveland Cavaliers,DAL,CLE,American Airlines Center,110,113
+2023-12-28,Boston Celtics,Detroit Pistons,BOS,DET,TD Garden,128,122
+2023-12-28,Chicago Bulls,Indiana Pacers,CHI,IND,United Center,104,120
+2023-12-28,Minnesota Timberwolves,Dallas Mavericks,MIN,DAL,Target Center,118,110
+2023-12-28,New Orleans Pelicans,Utah Jazz,NOP,UTA,Smoothie King Center,112,105
+2023-12-28,Denver Nuggets,Memphis Grizzlies,DEN,MEM,Ball Arena,142,105
+2023-12-28,Golden State Warriors,Miami Heat,GSW,MIA,Chase Center,102,114
+2023-12-28,Portland Trail Blazers,San Antonio Spurs,POR,SAS,Moda Center,105,118
+2023-12-28,Los Angeles Lakers,Charlotte Hornets,LAL,CHA,Crypto.com Arena,133,112
+2023-12-29,Orlando Magic,New York Knicks,ORL,NYK,Kia Center,117,108
+2023-12-29,Washington Wizards,Brooklyn Nets,WAS,BKN,Capital One Arena,110,104
+2023-12-29,Atlanta Hawks,Sacramento Kings,ATL,SAC,State Farm Arena,110,117
+2023-12-29,Boston Celtics,Toronto Raptors,BOS,TOR,TD Garden,120,118
+2023-12-29,Cleveland Cavaliers,Milwaukee Bucks,CLE,MIL,Rocket Mortgage FieldHouse,111,119
+2023-12-29,Houston Rockets,Philadelphia 76ers,HOU,PHI,Toyota Center,127,131
+2023-12-29,Denver Nuggets,Oklahoma City Thunder,DEN,OKC,Ball Arena,93,119
+2023-12-29,Phoenix Suns,Charlotte Hornets,PHX,CHA,Footprint Center,133,119
+2023-12-29,Portland Trail Blazers,San Antonio Spurs,POR,SAS,Moda Center,134,128
+2023-12-29,LA Clippers,Memphis Grizzlies,LAC,MEM,Crypto.com Arena,117,106
+2023-12-30,Utah Jazz,Miami Heat,UTA,MIA,Delta Center,117,109
+2023-12-30,Detroit Pistons,Toronto Raptors,DET,TOR,Little Caesars Arena,129,127
+2023-12-30,Indiana Pacers,New York Knicks,IND,NYK,Gainbridge Fieldhouse,140,126
+2023-12-30,Chicago Bulls,Philadelphia 76ers,CHI,PHI,United Center,105,92
+2023-12-30,Minnesota Timberwolves,Los Angeles Lakers,MIN,LAL,Target Center,108,106
+2023-12-30,Golden State Warriors,Dallas Mavericks,GSW,DAL,Chase Center,122,132
+2023-12-31,Washington Wizards,Atlanta Hawks,WAS,ATL,Capital One Arena,126,130
+2023-12-31,New Orleans Pelicans,Los Angeles Lakers,NOP,LAL,Smoothie King Center,129,109
+2023-12-31,Oklahoma City Thunder,Brooklyn Nets,OKC,BKN,Paycom Center,124,108
+2023-12-31,San Antonio Spurs,Boston Celtics,SAS,BOS,Frost Bank Center,101,134
+2023-12-31,Memphis Grizzlies,Sacramento Kings,MEM,SAC,FedExForum,92,123
+2023-12-31,Phoenix Suns,Orlando Magic,PHX,ORL,Footprint Center,112,107
